@@ -10,5 +10,4 @@ class ScreenCapture:
 
     def grab_screen(self):
         screenshot = np.array(self.sct.grab(self.monitor))
-        frame = cv2.cvtColor(screenshot, cv2.COLOR_BGRA2BGR)
-        return frame
+        return cv2.cvtColor(screenshot, cv2.COLOR_BGRA2BGR)

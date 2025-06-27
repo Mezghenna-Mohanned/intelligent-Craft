@@ -1,16 +1,26 @@
 import cv2
 import numpy as np
-from config import GREEN_THRESHOLD
+from config import GREEN_THRESHOLD, RED_THRESHOLD, BLUE_THRESHOLD, BROWN_THRESHOLD, BLOCK_THRESHOLD
 from utils.image_utils import log_action
 
-def is_grass_detected(frame):
-    """Detect large amounts of green pixels (grass) for now brk"""
-    lower_green = np.array([25, 40, 20])
-    upper_green = np.array([90, 255, 90])
+def detect_environment(frame):
+    env = {}
 
-    mask = cv2.inRange(frame, lower_green, upper_green)
-    green_pixels = cv2.countNonZero(mask)
+    green_mask = cv2.inRange(frame, (25, 40, 20), (90, 255, 90))
+    env["grass"] = cv2.countNonZero(green_mask)
 
-    log_action(f"Green pixels detected: {green_pixels}")
+    brown_mask = cv2.inRange(frame, (50, 25, 0), (120, 80, 40))
+    env["tree"] = cv2.countNonZero(brown_mask)
 
-    return green_pixels > GREEN_THRESHOLD
+    red_mask = cv2.inRange(frame, (0, 0, 100), (70, 70, 255))
+    env["lava"] = cv2.countNonZero(red_mask)
+
+    blue_mask = cv2.inRange(frame, (0, 0, 100), (100, 100, 255))
+    env["water"] = cv2.countNonZero(blue_mask)
+
+    # Obstacle: general blocks
+    gray_mask = cv2.inRange(frame, (90, 90, 90), (140, 140, 140))
+    env["block"] = cv2.countNonZero(gray_mask)
+
+    log_action(f"ENV: {env}")
+    return env
