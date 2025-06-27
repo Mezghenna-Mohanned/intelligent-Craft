@@ -1,0 +1,180 @@
+[2025-06-27 14:45:21] Green pixels detected: 13694
+[2025-06-27 14:45:21] Decision: Stop
+[2025-06-27 14:45:21] Stopping
+[2025-06-27 14:45:21] Green pixels detected: 15053
+[2025-06-27 14:45:21] Decision: Move Forward
+[2025-06-27 14:45:21] Moving Forward
+[2025-06-27 14:45:22] Green pixels detected: 30360
+[2025-06-27 14:45:22] Decision: Move Forward
+[2025-06-27 14:45:22] Moving Forward
+[2025-06-27 14:45:22] Green pixels detected: 22827
+[2025-06-27 14:45:22] Decision: Move Forward
+[2025-06-27 14:45:22] Moving Forward
+[2025-06-27 14:45:23] Green pixels detected: 22923
+[2025-06-27 14:45:23] Decision: Move Forward
+[2025-06-27 14:45:23] Moving Forward
+[2025-06-27 14:45:23] Green pixels detected: 13843
+[2025-06-27 14:45:23] Decision: Stop
+[2025-06-27 14:45:23] Stopping
+[2025-06-27 14:45:23] Green pixels detected: 13849
+[2025-06-27 14:45:23] Decision: Stop
+[2025-06-27 14:45:23] Stopping
+[2025-06-27 14:45:24] Green pixels detected: 13856
+[2025-06-27 14:45:24] Decision: Stop
+[2025-06-27 14:45:24] Stopping
+[2025-06-27 14:45:24] Green pixels detected: 114215
+[2025-06-27 14:45:24] Decision: Move Forward
+[2025-06-27 14:45:24] Moving Forward
+[2025-06-27 14:45:24] Green pixels detected: 112802
+[2025-06-27 14:45:24] Decision: Move Forward
+[2025-06-27 14:45:24] Moving Forward
+[2025-06-27 14:45:25] Green pixels detected: 109326
+[2025-06-27 14:45:25] Decision: Move Forward
+[2025-06-27 14:45:25] Moving Forward
+[2025-06-27 14:45:25] Green pixels detected: 95846
+[2025-06-27 14:45:25] Decision: Move Forward
+[2025-06-27 14:45:25] Moving Forward
+[2025-06-27 14:45:26] Green pixels detected: 99155
+[2025-06-27 14:45:26] Decision: Move Forward
+[2025-06-27 14:45:26] Moving Forward
+[2025-06-27 14:45:26] Green pixels detected: 108950
+[2025-06-27 14:45:26] Decision: Move Forward
+[2025-06-27 14:45:26] Moving Forward
+[2025-06-27 14:45:27] Green pixels detected: 124636
+[2025-06-27 14:45:27] Decision: Move Forward
+[2025-06-27 14:45:27] Moving Forward
+[2025-06-27 14:45:27] Green pixels detected: 141153
+[2025-06-27 14:45:27] Decision: Move Forward
+[2025-06-27 14:45:27] Moving Forward
+[2025-06-27 14:45:28] Green pixels detected: 102741
+[2025-06-27 14:45:28] Decision: Move Forward
+[2025-06-27 14:45:28] Moving Forward
+[2025-06-27 14:45:29] Green pixels detected: 103279
+[2025-06-27 14:45:29] Decision: Move Forward
+[2025-06-27 14:45:29] Moving Forward
+[2025-06-27 14:45:29] Green pixels detected: 105526
+[2025-06-27 14:45:29] Decision: Move Forward
+[2025-06-27 14:45:29] Moving Forward
+[2025-06-27 14:45:30] Green pixels detected: 105983
+[2025-06-27 14:45:30] Decision: Move Forward
+[2025-06-27 14:45:30] Moving Forward
+[2025-06-27 14:45:30] Green pixels detected: 106945
+[2025-06-27 14:45:30] Decision: Move Forward
+[2025-06-27 14:45:30] Moving Forward
+[2025-06-27 14:45:31] Green pixels detected: 105949
+[2025-06-27 14:45:31] Decision: Move Forward
+[2025-06-27 14:45:31] Moving Forward
+[2025-06-27 14:45:31] Green pixels detected: 115763
+[2025-06-27 14:45:31] Decision: Move Forward
+[2025-06-27 14:45:31] Moving Forward
+[2025-06-27 14:45:32] Green pixels detected: 78031
+[2025-06-27 14:45:32] Decision: Move Forward
+[2025-06-27 14:45:32] Moving Forward
+[2025-06-27 14:45:32] Green pixels detected: 53574
+[2025-06-27 14:45:32] Decision: Move Forward
+[2025-06-27 14:45:32] Moving Forward
+[2025-06-27 14:45:33] Green pixels detected: 48399
+[2025-06-27 14:45:33] Decision: Move Forward
+[2025-06-27 14:45:33] Moving Forward
+[2025-06-27 14:45:33] Green pixels detected: 51394
+[2025-06-27 14:45:33] Decision: Move Forward
+[2025-06-27 14:45:33] Moving Forward
+[2025-06-27 14:45:34] Green pixels detected: 34150
+[2025-06-27 14:45:34] Decision: Move Forward
+[2025-06-27 14:45:34] Moving Forward
+[2025-06-27 14:45:34] Green pixels detected: 36800
+[2025-06-27 14:45:34] Decision: Move Forward
+[2025-06-27 14:45:34] Moving Forward
+[2025-06-27 14:45:35] Green pixels detected: 39091
+[2025-06-27 14:45:35] Decision: Move Forward
+[2025-06-27 14:45:35] Moving Forward
+[2025-06-27 14:45:35] Green pixels detected: 42321
+[2025-06-27 14:45:35] Decision: Move Forward
+[2025-06-27 14:45:35] Moving Forward
+[2025-06-27 14:45:36] Green pixels detected: 42978
+[2025-06-27 14:45:36] Decision: Move Forward
+[2025-06-27 14:45:36] Moving Forward
+[2025-06-27 14:45:36] Green pixels detected: 29401
+[2025-06-27 14:45:36] Decision: Move Forward
+[2025-06-27 14:45:36] Moving Forward
+[2025-06-27 14:45:37] Green pixels detected: 29376
+[2025-06-27 14:45:37] Decision: Move Forward
+[2025-06-27 14:45:37] Moving Forward
+[2025-06-27 14:45:38] Green pixels detected: 41895
+[2025-06-27 14:45:38] Decision: Move Forward
+[2025-06-27 14:45:38] Moving Forward
+[2025-06-27 14:45:38] Green pixels detected: 56947
+[2025-06-27 14:45:38] Decision: Move Forward
+[2025-06-27 14:45:38] Moving Forward
+[2025-06-27 14:45:39] Green pixels detected: 29627
+[2025-06-27 14:45:39] Decision: Move Forward
+[2025-06-27 14:45:39] Moving Forward
+[2025-06-27 14:45:39] Green pixels detected: 24133
+[2025-06-27 14:45:39] Decision: Move Forward
+[2025-06-27 14:45:39] Moving Forward
+[2025-06-27 14:45:40] Green pixels detected: 23124
+[2025-06-27 14:45:40] Decision: Move Forward
+[2025-06-27 14:45:40] Moving Forward
+[2025-06-27 14:45:40] Green pixels detected: 35630
+[2025-06-27 14:45:40] Decision: Move Forward
+[2025-06-27 14:45:40] Moving Forward
+[2025-06-27 14:45:41] Green pixels detected: 29092
+[2025-06-27 14:45:41] Decision: Move Forward
+[2025-06-27 14:45:41] Moving Forward
+[2025-06-27 14:45:41] Green pixels detected: 33488
+[2025-06-27 14:45:41] Decision: Move Forward
+[2025-06-27 14:45:41] Moving Forward
+[2025-06-27 14:45:42] Green pixels detected: 36111
+[2025-06-27 14:45:42] Decision: Move Forward
+[2025-06-27 14:45:42] Moving Forward
+[2025-06-27 14:45:42] Green pixels detected: 36193
+[2025-06-27 14:45:42] Decision: Move Forward
+[2025-06-27 14:45:42] Moving Forward
+[2025-06-27 14:45:43] Green pixels detected: 36234
+[2025-06-27 14:45:43] Decision: Move Forward
+[2025-06-27 14:45:43] Moving Forward
+[2025-06-27 14:45:43] Green pixels detected: 36619
+[2025-06-27 14:45:43] Decision: Move Forward
+[2025-06-27 14:45:43] Moving Forward
+[2025-06-27 14:45:44] Green pixels detected: 38676
+[2025-06-27 14:45:44] Decision: Move Forward
+[2025-06-27 14:45:44] Moving Forward
+[2025-06-27 14:45:44] Green pixels detected: 42704
+[2025-06-27 14:45:44] Decision: Move Forward
+[2025-06-27 14:45:44] Moving Forward
+[2025-06-27 14:45:45] Green pixels detected: 42621
+[2025-06-27 14:45:45] Decision: Move Forward
+[2025-06-27 14:45:45] Moving Forward
+[2025-06-27 14:45:45] Green pixels detected: 48685
+[2025-06-27 14:45:45] Decision: Move Forward
+[2025-06-27 14:45:45] Moving Forward
+[2025-06-27 14:45:46] Green pixels detected: 45719
+[2025-06-27 14:45:46] Decision: Move Forward
+[2025-06-27 14:45:46] Moving Forward
+[2025-06-27 14:45:47] Green pixels detected: 56475
+[2025-06-27 14:45:47] Decision: Move Forward
+[2025-06-27 14:45:47] Moving Forward
+[2025-06-27 14:45:47] Green pixels detected: 78773
+[2025-06-27 14:45:47] Decision: Move Forward
+[2025-06-27 14:45:47] Moving Forward
+[2025-06-27 14:45:48] Green pixels detected: 77462
+[2025-06-27 14:45:48] Decision: Move Forward
+[2025-06-27 14:45:48] Moving Forward
+[2025-06-27 14:45:48] Green pixels detected: 77548
+[2025-06-27 14:45:48] Decision: Move Forward
+[2025-06-27 14:45:48] Moving Forward
+[2025-06-27 14:45:49] Green pixels detected: 77412
+[2025-06-27 14:45:49] Decision: Move Forward
+[2025-06-27 14:45:49] Moving Forward
+[2025-06-27 14:45:49] Green pixels detected: 283679
+[2025-06-27 14:45:49] Decision: Move Forward
+[2025-06-27 14:45:49] Moving Forward
+[2025-06-27 14:45:50] Green pixels detected: 285771
+[2025-06-27 14:45:50] Decision: Move Forward
+[2025-06-27 14:45:50] Moving Forward
+[2025-06-27 14:45:50] Green pixels detected: 13812
+[2025-06-27 14:45:50] Decision: Stop
+[2025-06-27 14:45:50] Stopping
+[2025-06-27 14:45:51] Green pixels detected: 13825
+[2025-06-27 14:45:51] Decision: Stop
+[2025-06-27 14:45:51] Stopping
