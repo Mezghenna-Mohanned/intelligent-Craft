@@ -178,3 +178,2007 @@
 [2025-06-27 14:45:51] Green pixels detected: 13825
 [2025-06-27 14:45:51] Decision: Stop
 [2025-06-27 14:45:51] Stopping
+[2025-06-27 16:43:08] ENV: {'grass': 26617, 'tree': 3394, 'lava': 2419, 'water': 4649, 'block': 1697}
+[2025-06-27 16:43:08] Decision: SPRINT FORWARD
+[2025-06-27 16:43:08] Sprinting Forward
+[2025-06-27 16:43:09] ENV: {'grass': 26570, 'tree': 3452, 'lava': 2640, 'water': 4849, 'block': 1695}
+[2025-06-27 16:43:09] Decision: SPRINT FORWARD
+[2025-06-27 16:43:09] Sprinting Forward
+[2025-06-27 16:43:10] ENV: {'grass': 84992, 'tree': 2397, 'lava': 1324, 'water': 7541, 'block': 90693}
+[2025-06-27 16:43:10] Decision: JUMP (Block Ahead)
+[2025-06-27 16:43:10] Jumping
+[2025-06-27 16:43:10] ENV: {'grass': 83834, 'tree': 2402, 'lava': 1204, 'water': 7437, 'block': 91857}
+[2025-06-27 16:43:10] Decision: JUMP (Block Ahead)
+[2025-06-27 16:43:10] Jumping
+[2025-06-27 16:43:10] ENV: {'grass': 83722, 'tree': 2423, 'lava': 1220, 'water': 7420, 'block': 91879}
+[2025-06-27 16:43:10] Decision: JUMP (Block Ahead)
+[2025-06-27 16:43:10] Jumping
+[2025-06-27 16:43:10] ENV: {'grass': 90736, 'tree': 11933, 'lava': 2681, 'water': 5400, 'block': 28676}
+[2025-06-27 16:43:10] Decision: STOP (Tree detected)
+[2025-06-27 16:43:10] Stopping
+[2025-06-27 16:43:10] ENV: {'grass': 90352, 'tree': 11918, 'lava': 2690, 'water': 5402, 'block': 28687}
+[2025-06-27 16:43:10] Decision: STOP (Tree detected)
+[2025-06-27 16:43:10] Stopping
+[2025-06-27 16:43:10] ENV: {'grass': 90347, 'tree': 11947, 'lava': 2707, 'water': 5450, 'block': 28815}
+[2025-06-27 16:43:10] Decision: STOP (Tree detected)
+[2025-06-27 16:43:10] Stopping
+[2025-06-27 16:43:11] ENV: {'grass': 90531, 'tree': 11900, 'lava': 2706, 'water': 5445, 'block': 28760}
+[2025-06-27 16:43:11] Decision: STOP (Tree detected)
+[2025-06-27 16:43:11] Stopping
+[2025-06-27 16:43:11] ENV: {'grass': 90934, 'tree': 12007, 'lava': 2700, 'water': 5434, 'block': 28109}
+[2025-06-27 16:43:11] Decision: STOP (Tree detected)
+[2025-06-27 16:43:11] Stopping
+[2025-06-27 16:43:11] ENV: {'grass': 91292, 'tree': 12060, 'lava': 2710, 'water': 5450, 'block': 27636}
+[2025-06-27 16:43:11] Decision: STOP (Tree detected)
+[2025-06-27 16:43:11] Stopping
+[2025-06-27 16:43:11] ENV: {'grass': 91100, 'tree': 12478, 'lava': 2700, 'water': 5444, 'block': 27566}
+[2025-06-27 16:43:11] Decision: STOP (Tree detected)
+[2025-06-27 16:43:11] Stopping
+[2025-06-27 16:43:11] ENV: {'grass': 91115, 'tree': 12543, 'lava': 2717, 'water': 5451, 'block': 27432}
+[2025-06-27 16:43:11] Decision: STOP (Tree detected)
+[2025-06-27 16:43:11] Stopping
+[2025-06-27 16:43:12] ENV: {'grass': 91088, 'tree': 12571, 'lava': 2706, 'water': 5431, 'block': 27373}
+[2025-06-27 16:43:12] Decision: STOP (Tree detected)
+[2025-06-27 16:43:12] Stopping
+[2025-06-27 16:43:12] ENV: {'grass': 91292, 'tree': 12568, 'lava': 2726, 'water': 5474, 'block': 27288}
+[2025-06-27 16:43:12] Decision: STOP (Tree detected)
+[2025-06-27 16:43:12] Stopping
+[2025-06-27 16:43:12] ENV: {'grass': 91157, 'tree': 12547, 'lava': 2713, 'water': 5457, 'block': 27323}
+[2025-06-27 16:43:12] Decision: STOP (Tree detected)
+[2025-06-27 16:43:12] Stopping
+[2025-06-27 16:43:12] ENV: {'grass': 91226, 'tree': 12752, 'lava': 2724, 'water': 5477, 'block': 27343}
+[2025-06-27 16:43:12] Decision: STOP (Tree detected)
+[2025-06-27 16:43:12] Stopping
+[2025-06-27 16:43:12] ENV: {'grass': 91181, 'tree': 12731, 'lava': 2736, 'water': 5481, 'block': 27389}
+[2025-06-27 16:43:12] Decision: STOP (Tree detected)
+[2025-06-27 16:43:12] Stopping
+[2025-06-27 16:43:13] ENV: {'grass': 91605, 'tree': 12707, 'lava': 2721, 'water': 5472, 'block': 27256}
+[2025-06-27 16:43:13] Decision: STOP (Tree detected)
+[2025-06-27 16:43:13] Stopping
+[2025-06-27 16:43:13] ENV: {'grass': 91878, 'tree': 12874, 'lava': 2736, 'water': 5495, 'block': 26800}
+[2025-06-27 16:43:13] Decision: STOP (Tree detected)
+[2025-06-27 16:43:13] Stopping
+[2025-06-27 16:43:13] ENV: {'grass': 97389, 'tree': 12684, 'lava': 2721, 'water': 5570, 'block': 26320}
+[2025-06-27 16:43:13] Decision: STOP (Tree detected)
+[2025-06-27 16:43:13] Stopping
+[2025-06-27 16:43:13] ENV: {'grass': 91462, 'tree': 10058, 'lava': 2732, 'water': 5544, 'block': 26396}
+[2025-06-27 16:43:13] Decision: STOP (Tree detected)
+[2025-06-27 16:43:13] Stopping
+[2025-06-27 16:43:13] ENV: {'grass': 90065, 'tree': 8847, 'lava': 2743, 'water': 5677, 'block': 27513}
+[2025-06-27 16:43:13] Decision: STOP (Tree detected)
+[2025-06-27 16:43:13] Stopping
+[2025-06-27 16:43:13] ENV: {'grass': 97297, 'tree': 10596, 'lava': 2756, 'water': 5642, 'block': 31676}
+[2025-06-27 16:43:13] Decision: STOP (Tree detected)
+[2025-06-27 16:43:13] Stopping
+[2025-06-27 16:43:14] ENV: {'grass': 97816, 'tree': 11413, 'lava': 2743, 'water': 5679, 'block': 32235}
+[2025-06-27 16:43:14] Decision: STOP (Tree detected)
+[2025-06-27 16:43:14] Stopping
+[2025-06-27 16:43:14] ENV: {'grass': 96656, 'tree': 11486, 'lava': 2745, 'water': 5652, 'block': 31929}
+[2025-06-27 16:43:14] Decision: STOP (Tree detected)
+[2025-06-27 16:43:14] Stopping
+[2025-06-27 16:43:14] ENV: {'grass': 94346, 'tree': 11048, 'lava': 2769, 'water': 5692, 'block': 31857}
+[2025-06-27 16:43:14] Decision: STOP (Tree detected)
+[2025-06-27 16:43:14] Stopping
+[2025-06-27 16:43:14] ENV: {'grass': 93952, 'tree': 10293, 'lava': 2758, 'water': 5745, 'block': 31627}
+[2025-06-27 16:43:14] Decision: STOP (Tree detected)
+[2025-06-27 16:43:14] Stopping
+[2025-06-27 16:43:14] ENV: {'grass': 94754, 'tree': 10501, 'lava': 2779, 'water': 5701, 'block': 30265}
+[2025-06-27 16:43:14] Decision: STOP (Tree detected)
+[2025-06-27 16:43:14] Stopping
+[2025-06-27 16:43:15] ENV: {'grass': 92121, 'tree': 10578, 'lava': 2780, 'water': 5657, 'block': 30139}
+[2025-06-27 16:43:15] Decision: STOP (Tree detected)
+[2025-06-27 16:43:15] Stopping
+[2025-06-27 16:43:15] ENV: {'grass': 90823, 'tree': 10843, 'lava': 2801, 'water': 5658, 'block': 29850}
+[2025-06-27 16:43:15] Decision: STOP (Tree detected)
+[2025-06-27 16:43:15] Stopping
+[2025-06-27 16:43:15] ENV: {'grass': 90558, 'tree': 10909, 'lava': 2790, 'water': 5623, 'block': 29915}
+[2025-06-27 16:43:15] Decision: STOP (Tree detected)
+[2025-06-27 16:43:15] Stopping
+[2025-06-27 16:43:15] ENV: {'grass': 90446, 'tree': 10994, 'lava': 2789, 'water': 5623, 'block': 29884}
+[2025-06-27 16:43:15] Decision: STOP (Tree detected)
+[2025-06-27 16:43:15] Stopping
+[2025-06-27 16:43:15] ENV: {'grass': 90562, 'tree': 10999, 'lava': 2798, 'water': 5638, 'block': 29748}
+[2025-06-27 16:43:15] Decision: STOP (Tree detected)
+[2025-06-27 16:43:15] Stopping
+[2025-06-27 16:43:15] ENV: {'grass': 90459, 'tree': 10949, 'lava': 2803, 'water': 5658, 'block': 29632}
+[2025-06-27 16:43:15] Decision: STOP (Tree detected)
+[2025-06-27 16:43:15] Stopping
+[2025-06-27 16:43:16] ENV: {'grass': 90319, 'tree': 10909, 'lava': 2807, 'water': 5655, 'block': 29587}
+[2025-06-27 16:43:16] Decision: STOP (Tree detected)
+[2025-06-27 16:43:16] Stopping
+[2025-06-27 16:43:16] ENV: {'grass': 90418, 'tree': 10877, 'lava': 2807, 'water': 5627, 'block': 29535}
+[2025-06-27 16:43:16] Decision: STOP (Tree detected)
+[2025-06-27 16:43:16] Stopping
+[2025-06-27 16:43:16] ENV: {'grass': 90323, 'tree': 10944, 'lava': 2824, 'water': 5686, 'block': 29471}
+[2025-06-27 16:43:16] Decision: STOP (Tree detected)
+[2025-06-27 16:43:16] Stopping
+[2025-06-27 16:43:16] ENV: {'grass': 94494, 'tree': 9826, 'lava': 2855, 'water': 5712, 'block': 27573}
+[2025-06-27 16:43:16] Decision: STOP (Tree detected)
+[2025-06-27 16:43:16] Stopping
+[2025-06-27 16:43:16] ENV: {'grass': 95539, 'tree': 9878, 'lava': 2852, 'water': 5701, 'block': 26785}
+[2025-06-27 16:43:16] Decision: STOP (Tree detected)
+[2025-06-27 16:43:16] Stopping
+[2025-06-27 16:43:17] ENV: {'grass': 91851, 'tree': 8845, 'lava': 2909, 'water': 5754, 'block': 26937}
+[2025-06-27 16:43:17] Decision: STOP (Tree detected)
+[2025-06-27 16:43:17] Stopping
+[2025-06-27 16:43:17] ENV: {'grass': 90190, 'tree': 8915, 'lava': 2903, 'water': 5740, 'block': 26567}
+[2025-06-27 16:43:17] Decision: STOP (Tree detected)
+[2025-06-27 16:43:17] Stopping
+[2025-06-27 16:43:17] ENV: {'grass': 85894, 'tree': 7992, 'lava': 2842, 'water': 5636, 'block': 25182}
+[2025-06-27 16:43:17] Decision: STOP (Tree detected)
+[2025-06-27 16:43:17] Stopping
+[2025-06-27 16:43:17] ENV: {'grass': 81466, 'tree': 6941, 'lava': 2787, 'water': 5615, 'block': 24786}
+[2025-06-27 16:43:17] Decision: JUMP (Block Ahead)
+[2025-06-27 16:43:17] Jumping
+[2025-06-27 16:43:17] ENV: {'grass': 80600, 'tree': 7128, 'lava': 2791, 'water': 5587, 'block': 25399}
+[2025-06-27 16:43:17] Decision: STOP (Tree detected)
+[2025-06-27 16:43:17] Stopping
+[2025-06-27 16:43:17] ENV: {'grass': 78939, 'tree': 7607, 'lava': 2803, 'water': 5601, 'block': 25478}
+[2025-06-27 16:43:17] Decision: STOP (Tree detected)
+[2025-06-27 16:43:17] Stopping
+[2025-06-27 16:43:18] ENV: {'grass': 78235, 'tree': 7751, 'lava': 2817, 'water': 5671, 'block': 25562}
+[2025-06-27 16:43:18] Decision: STOP (Tree detected)
+[2025-06-27 16:43:18] Stopping
+[2025-06-27 16:43:18] ENV: {'grass': 77734, 'tree': 7968, 'lava': 2819, 'water': 5744, 'block': 25728}
+[2025-06-27 16:43:18] Decision: STOP (Tree detected)
+[2025-06-27 16:43:18] Stopping
+[2025-06-27 16:43:18] ENV: {'grass': 122293, 'tree': 19667, 'lava': 2850, 'water': 5550, 'block': 25369}
+[2025-06-27 16:43:18] Decision: STOP (Tree detected)
+[2025-06-27 16:43:18] Stopping
+[2025-06-27 16:43:18] ENV: {'grass': 152336, 'tree': 36197, 'lava': 2864, 'water': 5521, 'block': 23359}
+[2025-06-27 16:43:18] Decision: STOP (Tree detected)
+[2025-06-27 16:43:18] Stopping
+[2025-06-27 16:43:18] ENV: {'grass': 152146, 'tree': 37236, 'lava': 2861, 'water': 5537, 'block': 22025}
+[2025-06-27 16:43:18] Decision: STOP (Tree detected)
+[2025-06-27 16:43:18] Stopping
+[2025-06-27 16:43:19] ENV: {'grass': 150807, 'tree': 37761, 'lava': 2861, 'water': 5517, 'block': 21951}
+[2025-06-27 16:43:19] Decision: STOP (Tree detected)
+[2025-06-27 16:43:19] Stopping
+[2025-06-27 16:43:19] ENV: {'grass': 153476, 'tree': 38595, 'lava': 2871, 'water': 5623, 'block': 21793}
+[2025-06-27 16:43:19] Decision: STOP (Tree detected)
+[2025-06-27 16:43:19] Stopping
+[2025-06-27 16:43:19] ENV: {'grass': 160390, 'tree': 39787, 'lava': 2818, 'water': 5486, 'block': 20022}
+[2025-06-27 16:43:19] Decision: STOP (Tree detected)
+[2025-06-27 16:43:19] Stopping
+[2025-06-27 16:43:19] ENV: {'grass': 154556, 'tree': 41181, 'lava': 3043, 'water': 5872, 'block': 23995}
+[2025-06-27 16:43:19] Decision: STOP (Tree detected)
+[2025-06-27 16:43:19] Stopping
+[2025-06-27 16:43:19] ENV: {'grass': 156161, 'tree': 42338, 'lava': 3037, 'water': 5897, 'block': 24804}
+[2025-06-27 16:43:19] Decision: STOP (Tree detected)
+[2025-06-27 16:43:19] Stopping
+[2025-06-27 16:43:19] ENV: {'grass': 156069, 'tree': 42172, 'lava': 3065, 'water': 5912, 'block': 24805}
+[2025-06-27 16:43:19] Decision: STOP (Tree detected)
+[2025-06-27 16:43:19] Stopping
+[2025-06-27 16:43:20] ENV: {'grass': 173191, 'tree': 48021, 'lava': 3065, 'water': 5921, 'block': 24755}
+[2025-06-27 16:43:20] Decision: STOP (Tree detected)
+[2025-06-27 16:43:20] Stopping
+[2025-06-27 16:43:20] ENV: {'grass': 174160, 'tree': 48470, 'lava': 3053, 'water': 6000, 'block': 24792}
+[2025-06-27 16:43:20] Decision: STOP (Tree detected)
+[2025-06-27 16:43:20] Stopping
+[2025-06-27 16:43:20] ENV: {'grass': 177057, 'tree': 49509, 'lava': 3070, 'water': 6008, 'block': 23960}
+[2025-06-27 16:43:20] Decision: STOP (Tree detected)
+[2025-06-27 16:43:20] Stopping
+[2025-06-27 16:43:20] ENV: {'grass': 190937, 'tree': 52110, 'lava': 3055, 'water': 6014, 'block': 17113}
+[2025-06-27 16:43:20] Decision: STOP (Tree detected)
+[2025-06-27 16:43:20] Stopping
+[2025-06-27 16:43:20] ENV: {'grass': 184988, 'tree': 49697, 'lava': 3037, 'water': 5962, 'block': 18157}
+[2025-06-27 16:43:20] Decision: STOP (Tree detected)
+[2025-06-27 16:43:20] Stopping
+[2025-06-27 16:43:21] ENV: {'grass': 184454, 'tree': 49420, 'lava': 3085, 'water': 6059, 'block': 18436}
+[2025-06-27 16:43:21] Decision: STOP (Tree detected)
+[2025-06-27 16:43:21] Stopping
+[2025-06-27 16:43:21] ENV: {'grass': 183477, 'tree': 49409, 'lava': 3153, 'water': 6124, 'block': 18338}
+[2025-06-27 16:43:21] Decision: STOP (Tree detected)
+[2025-06-27 16:43:21] Stopping
+[2025-06-27 16:43:21] ENV: {'grass': 185039, 'tree': 50192, 'lava': 3174, 'water': 6081, 'block': 18094}
+[2025-06-27 16:43:21] Decision: STOP (Tree detected)
+[2025-06-27 16:43:21] Stopping
+[2025-06-27 16:43:21] ENV: {'grass': 184179, 'tree': 48120, 'lava': 3130, 'water': 6032, 'block': 17716}
+[2025-06-27 16:43:21] Decision: STOP (Tree detected)
+[2025-06-27 16:43:21] Stopping
+[2025-06-27 16:43:21] ENV: {'grass': 182536, 'tree': 47715, 'lava': 3194, 'water': 6118, 'block': 18547}
+[2025-06-27 16:43:21] Decision: STOP (Tree detected)
+[2025-06-27 16:43:21] Stopping
+[2025-06-27 16:43:21] ENV: {'grass': 182257, 'tree': 47665, 'lava': 3192, 'water': 6170, 'block': 18635}
+[2025-06-27 16:43:21] Decision: STOP (Tree detected)
+[2025-06-27 16:43:21] Stopping
+[2025-06-27 16:43:22] ENV: {'grass': 181412, 'tree': 48533, 'lava': 3199, 'water': 6251, 'block': 18461}
+[2025-06-27 16:43:22] Decision: STOP (Tree detected)
+[2025-06-27 16:43:22] Stopping
+[2025-06-27 16:43:22] ENV: {'grass': 180747, 'tree': 49296, 'lava': 3208, 'water': 6297, 'block': 18628}
+[2025-06-27 16:43:22] Decision: STOP (Tree detected)
+[2025-06-27 16:43:22] Stopping
+[2025-06-27 16:43:22] ENV: {'grass': 180656, 'tree': 49541, 'lava': 3236, 'water': 6245, 'block': 18721}
+[2025-06-27 16:43:22] Decision: STOP (Tree detected)
+[2025-06-27 16:43:22] Stopping
+[2025-06-27 16:43:22] ENV: {'grass': 180543, 'tree': 49873, 'lava': 3221, 'water': 6250, 'block': 18621}
+[2025-06-27 16:43:22] Decision: STOP (Tree detected)
+[2025-06-27 16:43:22] Stopping
+[2025-06-27 16:43:22] ENV: {'grass': 180541, 'tree': 50035, 'lava': 3233, 'water': 6273, 'block': 18551}
+[2025-06-27 16:43:22] Decision: STOP (Tree detected)
+[2025-06-27 16:43:22] Stopping
+[2025-06-27 16:43:23] ENV: {'grass': 180623, 'tree': 50190, 'lava': 3250, 'water': 6278, 'block': 18565}
+[2025-06-27 16:43:23] Decision: STOP (Tree detected)
+[2025-06-27 16:43:23] Stopping
+[2025-06-27 16:43:23] ENV: {'grass': 180655, 'tree': 50308, 'lava': 3255, 'water': 6276, 'block': 18538}
+[2025-06-27 16:43:23] Decision: STOP (Tree detected)
+[2025-06-27 16:43:23] Stopping
+[2025-06-27 16:43:23] ENV: {'grass': 180743, 'tree': 50433, 'lava': 3268, 'water': 6311, 'block': 18471}
+[2025-06-27 16:43:23] Decision: STOP (Tree detected)
+[2025-06-27 16:43:23] Stopping
+[2025-06-27 16:43:23] ENV: {'grass': 180825, 'tree': 50631, 'lava': 3273, 'water': 6326, 'block': 18504}
+[2025-06-27 16:43:23] Decision: STOP (Tree detected)
+[2025-06-27 16:43:23] Stopping
+[2025-06-27 16:43:23] ENV: {'grass': 181503, 'tree': 50788, 'lava': 3297, 'water': 6343, 'block': 18432}
+[2025-06-27 16:43:23] Decision: STOP (Tree detected)
+[2025-06-27 16:43:23] Stopping
+[2025-06-27 16:43:24] ENV: {'grass': 182917, 'tree': 49550, 'lava': 3298, 'water': 6403, 'block': 21534}
+[2025-06-27 16:43:24] Decision: STOP (Tree detected)
+[2025-06-27 16:43:24] Stopping
+[2025-06-27 16:43:24] ENV: {'grass': 172772, 'tree': 47956, 'lava': 3315, 'water': 6597, 'block': 22987}
+[2025-06-27 16:43:24] Decision: STOP (Tree detected)
+[2025-06-27 16:43:24] Stopping
+[2025-06-27 16:43:24] ENV: {'grass': 174053, 'tree': 47508, 'lava': 3337, 'water': 6891, 'block': 22325}
+[2025-06-27 16:43:24] Decision: STOP (Tree detected)
+[2025-06-27 16:43:24] Stopping
+[2025-06-27 16:43:24] ENV: {'grass': 175180, 'tree': 47829, 'lava': 3344, 'water': 6793, 'block': 21736}
+[2025-06-27 16:43:24] Decision: STOP (Tree detected)
+[2025-06-27 16:43:24] Stopping
+[2025-06-27 16:43:24] ENV: {'grass': 175746, 'tree': 48291, 'lava': 3359, 'water': 6810, 'block': 21662}
+[2025-06-27 16:43:24] Decision: STOP (Tree detected)
+[2025-06-27 16:43:24] Stopping
+[2025-06-27 16:43:24] ENV: {'grass': 176019, 'tree': 48578, 'lava': 3371, 'water': 6847, 'block': 21591}
+[2025-06-27 16:43:24] Decision: STOP (Tree detected)
+[2025-06-27 16:43:24] Stopping
+[2025-06-27 16:43:25] ENV: {'grass': 176207, 'tree': 48837, 'lava': 3401, 'water': 6916, 'block': 21606}
+[2025-06-27 16:43:25] Decision: STOP (Tree detected)
+[2025-06-27 16:43:25] Stopping
+[2025-06-27 16:43:25] ENV: {'grass': 178671, 'tree': 48143, 'lava': 3365, 'water': 6945, 'block': 21658}
+[2025-06-27 16:43:25] Decision: STOP (Tree detected)
+[2025-06-27 16:43:25] Stopping
+[2025-06-27 16:43:25] ENV: {'grass': 176518, 'tree': 46603, 'lava': 3441, 'water': 6981, 'block': 22687}
+[2025-06-27 16:43:25] Decision: STOP (Tree detected)
+[2025-06-27 16:43:25] Stopping
+[2025-06-27 16:43:25] ENV: {'grass': 177196, 'tree': 46325, 'lava': 3400, 'water': 7071, 'block': 22532}
+[2025-06-27 16:43:25] Decision: STOP (Tree detected)
+[2025-06-27 16:43:25] Stopping
+[2025-06-27 16:43:25] ENV: {'grass': 174380, 'tree': 43644, 'lava': 3507, 'water': 7087, 'block': 22881}
+[2025-06-27 16:43:25] Decision: STOP (Tree detected)
+[2025-06-27 16:43:25] Stopping
+[2025-06-27 16:43:26] ENV: {'grass': 164919, 'tree': 40914, 'lava': 3548, 'water': 34937, 'block': 22673}
+[2025-06-27 16:43:26] Decision: STOP (Water)
+[2025-06-27 16:43:26] Stopping
+[2025-06-27 16:43:26] ENV: {'grass': 149315, 'tree': 34388, 'lava': 3558, 'water': 34927, 'block': 22793}
+[2025-06-27 16:43:26] Decision: STOP (Water)
+[2025-06-27 16:43:26] Stopping
+[2025-06-27 16:43:26] ENV: {'grass': 175068, 'tree': 42538, 'lava': 3556, 'water': 23957, 'block': 22566}
+[2025-06-27 16:43:26] Decision: STOP (Water)
+[2025-06-27 16:43:26] Stopping
+[2025-06-27 16:43:26] ENV: {'grass': 170754, 'tree': 42868, 'lava': 4820, 'water': 23059, 'block': 22386}
+[2025-06-27 16:43:26] Decision: STOP (Water)
+[2025-06-27 16:43:26] Stopping
+[2025-06-27 16:43:26] ENV: {'grass': 149621, 'tree': 34982, 'lava': 3630, 'water': 42998, 'block': 22495}
+[2025-06-27 16:43:26] Decision: STOP (Water)
+[2025-06-27 16:43:26] Stopping
+[2025-06-27 16:43:26] ENV: {'grass': 135811, 'tree': 31102, 'lava': 3649, 'water': 45883, 'block': 22535}
+[2025-06-27 16:43:26] Decision: STOP (Water)
+[2025-06-27 16:43:26] Stopping
+[2025-06-27 16:43:27] ENV: {'grass': 134377, 'tree': 27783, 'lava': 3821, 'water': 44592, 'block': 23934}
+[2025-06-27 16:43:27] Decision: STOP (Water)
+[2025-06-27 16:43:27] Stopping
+[2025-06-27 16:43:27] ENV: {'grass': 144842, 'tree': 28408, 'lava': 3722, 'water': 40590, 'block': 22102}
+[2025-06-27 16:43:27] Decision: STOP (Water)
+[2025-06-27 16:43:27] Stopping
+[2025-06-27 16:43:27] ENV: {'grass': 153346, 'tree': 34525, 'lava': 3723, 'water': 44605, 'block': 20462}
+[2025-06-27 16:43:27] Decision: STOP (Water)
+[2025-06-27 16:43:27] Stopping
+[2025-06-27 16:43:27] ENV: {'grass': 158866, 'tree': 36952, 'lava': 3716, 'water': 44507, 'block': 19623}
+[2025-06-27 16:43:27] Decision: STOP (Water)
+[2025-06-27 16:43:27] Stopping
+[2025-06-27 16:43:27] ENV: {'grass': 161634, 'tree': 38506, 'lava': 3737, 'water': 44596, 'block': 19101}
+[2025-06-27 16:43:27] Decision: STOP (Water)
+[2025-06-27 16:43:27] Stopping
+[2025-06-27 16:43:28] ENV: {'grass': 163633, 'tree': 40464, 'lava': 3769, 'water': 45799, 'block': 18516}
+[2025-06-27 16:43:28] Decision: STOP (Water)
+[2025-06-27 16:43:28] Stopping
+[2025-06-27 16:43:28] ENV: {'grass': 151176, 'tree': 39122, 'lava': 3781, 'water': 73418, 'block': 17940}
+[2025-06-27 16:43:28] Decision: STOP (Water)
+[2025-06-27 16:43:28] Stopping
+[2025-06-27 16:43:28] ENV: {'grass': 154593, 'tree': 35619, 'lava': 3865, 'water': 64476, 'block': 17688}
+[2025-06-27 16:43:28] Decision: STOP (Water)
+[2025-06-27 16:43:28] Stopping
+[2025-06-27 16:43:28] ENV: {'grass': 160496, 'tree': 33352, 'lava': 3874, 'water': 47939, 'block': 17872}
+[2025-06-27 16:43:28] Decision: STOP (Water)
+[2025-06-27 16:43:28] Stopping
+[2025-06-27 16:43:28] ENV: {'grass': 153954, 'tree': 33454, 'lava': 7652, 'water': 49668, 'block': 17615}
+[2025-06-27 16:43:28] Decision: STOP (Water)
+[2025-06-27 16:43:28] Stopping
+[2025-06-27 16:43:28] ENV: {'grass': 151816, 'tree': 34776, 'lava': 9037, 'water': 48456, 'block': 20579}
+[2025-06-27 16:43:28] Decision: STOP (Lava)
+[2025-06-27 16:43:28] Stopping
+[2025-06-27 16:43:29] ENV: {'grass': 151533, 'tree': 34922, 'lava': 9037, 'water': 48436, 'block': 20483}
+[2025-06-27 16:43:29] Decision: STOP (Lava)
+[2025-06-27 16:43:29] Stopping
+[2025-06-27 16:43:29] ENV: {'grass': 151393, 'tree': 35001, 'lava': 9061, 'water': 48614, 'block': 20793}
+[2025-06-27 16:43:29] Decision: STOP (Lava)
+[2025-06-27 16:43:29] Stopping
+[2025-06-27 16:43:29] ENV: {'grass': 151395, 'tree': 35876, 'lava': 8270, 'water': 50982, 'block': 19419}
+[2025-06-27 16:43:29] Decision: STOP (Lava)
+[2025-06-27 16:43:29] Stopping
+[2025-06-27 16:43:29] ENV: {'grass': 140553, 'tree': 34499, 'lava': 6909, 'water': 62447, 'block': 18081}
+[2025-06-27 16:43:29] Decision: STOP (Water)
+[2025-06-27 16:43:29] Stopping
+[2025-06-27 16:43:29] ENV: {'grass': 142865, 'tree': 29582, 'lava': 7000, 'water': 59623, 'block': 17450}
+[2025-06-27 16:43:29] Decision: STOP (Water)
+[2025-06-27 16:43:29] Stopping
+[2025-06-27 16:43:30] ENV: {'grass': 139603, 'tree': 34038, 'lava': 4394, 'water': 29323, 'block': 19478}
+[2025-06-27 16:43:30] Decision: STOP (Water)
+[2025-06-27 16:43:30] Stopping
+[2025-06-27 16:43:30] ENV: {'grass': 127054, 'tree': 43731, 'lava': 3336, 'water': 17196, 'block': 18862}
+[2025-06-27 16:43:30] Decision: STOP (Water)
+[2025-06-27 16:43:30] Stopping
+[2025-06-27 16:43:30] ENV: {'grass': 158413, 'tree': 43364, 'lava': 4718, 'water': 20033, 'block': 19575}
+[2025-06-27 16:43:30] Decision: STOP (Water)
+[2025-06-27 16:43:30] Stopping
+[2025-06-27 16:43:30] ENV: {'grass': 190090, 'tree': 59439, 'lava': 4024, 'water': 15723, 'block': 10373}
+[2025-06-27 16:43:30] Decision: STOP (Water)
+[2025-06-27 16:43:30] Stopping
+[2025-06-27 16:43:30] ENV: {'grass': 124289, 'tree': 30689, 'lava': 5149, 'water': 25391, 'block': 20323}
+[2025-06-27 16:43:30] Decision: STOP (Water)
+[2025-06-27 16:43:30] Stopping
+[2025-06-27 16:43:30] ENV: {'grass': 147290, 'tree': 39045, 'lava': 5580, 'water': 31642, 'block': 21195}
+[2025-06-27 16:43:30] Decision: STOP (Water)
+[2025-06-27 16:43:30] Stopping
+[2025-06-27 16:43:31] ENV: {'grass': 151807, 'tree': 42479, 'lava': 5009, 'water': 36626, 'block': 20903}
+[2025-06-27 16:43:31] Decision: STOP (Water)
+[2025-06-27 16:43:31] Stopping
+[2025-06-27 16:43:31] ENV: {'grass': 152867, 'tree': 43710, 'lava': 8067, 'water': 38760, 'block': 21196}
+[2025-06-27 16:43:31] Decision: STOP (Lava)
+[2025-06-27 16:43:31] Stopping
+[2025-06-27 16:43:31] ENV: {'grass': 179011, 'tree': 49366, 'lava': 3748, 'water': 32241, 'block': 16420}
+[2025-06-27 16:43:31] Decision: STOP (Water)
+[2025-06-27 16:43:31] Stopping
+[2025-06-27 16:43:31] ENV: {'grass': 177365, 'tree': 48722, 'lava': 3781, 'water': 36729, 'block': 17035}
+[2025-06-27 16:43:31] Decision: STOP (Water)
+[2025-06-27 16:43:31] Stopping
+[2025-06-27 16:43:31] ENV: {'grass': 168382, 'tree': 49439, 'lava': 3878, 'water': 58552, 'block': 16606}
+[2025-06-27 16:43:31] Decision: STOP (Water)
+[2025-06-27 16:43:31] Stopping
+[2025-06-27 16:43:32] ENV: {'grass': 168704, 'tree': 49521, 'lava': 3894, 'water': 60500, 'block': 16828}
+[2025-06-27 16:43:32] Decision: STOP (Water)
+[2025-06-27 16:43:32] Stopping
+[2025-06-27 16:43:32] ENV: {'grass': 167545, 'tree': 49889, 'lava': 4015, 'water': 60887, 'block': 16791}
+[2025-06-27 16:43:32] Decision: STOP (Water)
+[2025-06-27 16:43:32] Stopping
+[2025-06-27 16:43:32] ENV: {'grass': 185981, 'tree': 55446, 'lava': 3721, 'water': 55071, 'block': 17187}
+[2025-06-27 16:43:32] Decision: STOP (Water)
+[2025-06-27 16:43:32] Stopping
+[2025-06-27 16:43:32] ENV: {'grass': 175065, 'tree': 56380, 'lava': 2764, 'water': 42114, 'block': 28835}
+[2025-06-27 16:43:32] Decision: STOP (Water)
+[2025-06-27 16:43:32] Stopping
+[2025-06-27 16:43:32] ENV: {'grass': 172063, 'tree': 55617, 'lava': 2816, 'water': 42521, 'block': 27820}
+[2025-06-27 16:43:32] Decision: STOP (Water)
+[2025-06-27 16:43:32] Stopping
+[2025-06-27 16:43:32] ENV: {'grass': 172035, 'tree': 50992, 'lava': 4070, 'water': 66160, 'block': 17301}
+[2025-06-27 16:43:32] Decision: STOP (Water)
+[2025-06-27 16:43:32] Stopping
+[2025-06-27 16:43:33] ENV: {'grass': 142478, 'tree': 34140, 'lava': 3489, 'water': 35339, 'block': 19459}
+[2025-06-27 16:43:33] Decision: STOP (Water)
+[2025-06-27 16:43:33] Stopping
+[2025-06-27 16:43:33] ENV: {'grass': 137516, 'tree': 33222, 'lava': 3593, 'water': 34603, 'block': 19967}
+[2025-06-27 16:43:33] Decision: STOP (Water)
+[2025-06-27 16:43:33] Stopping
+[2025-06-27 16:43:33] ENV: {'grass': 132760, 'tree': 28462, 'lava': 3850, 'water': 36421, 'block': 20895}
+[2025-06-27 16:43:33] Decision: STOP (Water)
+[2025-06-27 16:43:33] Stopping
+[2025-06-27 16:43:33] ENV: {'grass': 118365, 'tree': 23270, 'lava': 3978, 'water': 31665, 'block': 21484}
+[2025-06-27 16:43:33] Decision: STOP (Water)
+[2025-06-27 16:43:33] Stopping
+[2025-06-27 16:43:33] ENV: {'grass': 113462, 'tree': 21174, 'lava': 4014, 'water': 31481, 'block': 21746}
+[2025-06-27 16:43:33] Decision: STOP (Water)
+[2025-06-27 16:43:33] Stopping
+[2025-06-27 16:43:34] ENV: {'grass': 110008, 'tree': 20752, 'lava': 3938, 'water': 31304, 'block': 22188}
+[2025-06-27 16:43:34] Decision: STOP (Water)
+[2025-06-27 16:43:34] Stopping
+[2025-06-27 16:43:34] ENV: {'grass': 111151, 'tree': 3116, 'lava': 1237, 'water': 4870, 'block': 76383}
+[2025-06-27 16:43:34] Decision: JUMP (Block Ahead)
+[2025-06-27 16:43:34] Jumping
+[2025-06-27 16:43:34] ENV: {'grass': 110716, 'tree': 3115, 'lava': 1224, 'water': 4850, 'block': 76307}
+[2025-06-27 16:43:34] Decision: JUMP (Block Ahead)
+[2025-06-27 16:43:34] Jumping
+[2025-06-27 16:43:34] ENV: {'grass': 110984, 'tree': 3122, 'lava': 1244, 'water': 4871, 'block': 76259}
+[2025-06-27 16:43:34] Decision: JUMP (Block Ahead)
+[2025-06-27 16:43:34] Jumping
+[2025-06-27 16:43:34] ENV: {'grass': 111012, 'tree': 3061, 'lava': 1232, 'water': 4865, 'block': 76256}
+[2025-06-27 16:43:34] Decision: JUMP (Block Ahead)
+[2025-06-27 16:43:34] Jumping
+[2025-06-27 16:43:35] ENV: {'grass': 110852, 'tree': 3046, 'lava': 1230, 'water': 4854, 'block': 76245}
+[2025-06-27 16:43:35] Decision: JUMP (Block Ahead)
+[2025-06-27 16:43:35] Jumping
+[2025-06-27 16:43:35] ENV: {'grass': 110953, 'tree': 2986, 'lava': 1234, 'water': 4861, 'block': 76216}
+[2025-06-27 16:43:35] Decision: JUMP (Block Ahead)
+[2025-06-27 16:43:35] Jumping
+[2025-06-27 16:43:35] ENV: {'grass': 110953, 'tree': 2998, 'lava': 1224, 'water': 4871, 'block': 76255}
+[2025-06-27 16:43:35] Decision: JUMP (Block Ahead)
+[2025-06-27 16:43:35] Jumping
+[2025-06-27 16:43:35] ENV: {'grass': 110989, 'tree': 3025, 'lava': 1233, 'water': 4897, 'block': 76264}
+[2025-06-27 16:43:35] Decision: JUMP (Block Ahead)
+[2025-06-27 16:43:35] Jumping
+[2025-06-27 16:43:35] ENV: {'grass': 27025, 'tree': 3554, 'lava': 1959, 'water': 5150, 'block': 1695}
+[2025-06-27 16:43:35] Decision: SPRINT FORWARD
+[2025-06-27 16:43:35] Sprinting Forward
+[2025-06-27 16:43:36] ENV: {'grass': 27031, 'tree': 3573, 'lava': 1974, 'water': 5175, 'block': 1695}
+[2025-06-27 16:43:36] Decision: SPRINT FORWARD
+[2025-06-27 16:43:36] Sprinting Forward
+[2025-06-27 16:43:37] ENV: {'grass': 25560, 'tree': 3299, 'lava': 2137, 'water': 5227, 'block': 2041}
+[2025-06-27 16:43:37] Decision: SPRINT FORWARD
+[2025-06-27 16:43:37] Sprinting Forward
+[2025-06-27 16:43:37] ENV: {'grass': 25556, 'tree': 3283, 'lava': 2157, 'water': 5244, 'block': 2040}
+[2025-06-27 16:43:37] Decision: SPRINT FORWARD
+[2025-06-27 16:43:37] Sprinting Forward
+[2025-06-27 16:43:38] ENV: {'grass': 25561, 'tree': 3323, 'lava': 4103, 'water': 7203, 'block': 1973}
+[2025-06-27 16:43:38] Decision: SPRINT FORWARD
+[2025-06-27 16:43:38] Sprinting Forward
+[2025-06-27 16:43:39] ENV: {'grass': 27011, 'tree': 3532, 'lava': 2034, 'water': 5152, 'block': 1695}
+[2025-06-27 16:43:39] Decision: SPRINT FORWARD
+[2025-06-27 16:43:39] Sprinting Forward
+[2025-06-27 16:43:39] Stopping
+[2025-06-27 16:47:40] ENV: {'grass': 26979, 'tree': 3493, 'lava': 1927, 'water': 4987, 'block': 1691}
+[2025-06-27 16:47:40] Decision: SPRINT FORWARD
+[2025-06-27 16:47:40] Sprinting Forward
+[2025-06-27 16:47:41] ENV: {'grass': 26854, 'tree': 3067, 'lava': 1701, 'water': 4510, 'block': 1687}
+[2025-06-27 16:47:41] Decision: SPRINT FORWARD
+[2025-06-27 16:47:41] Sprinting Forward
+[2025-06-27 16:47:42] ENV: {'grass': 86377, 'tree': 1945, 'lava': 4880, 'water': 36769, 'block': 82426}
+[2025-06-27 16:47:42] Decision: STOP (Water)
+[2025-06-27 16:47:42] Stopping
+[2025-06-27 16:47:42] ENV: {'grass': 86273, 'tree': 1930, 'lava': 4812, 'water': 36814, 'block': 82397}
+[2025-06-27 16:47:42] Decision: STOP (Water)
+[2025-06-27 16:47:42] Stopping
+[2025-06-27 16:47:42] ENV: {'grass': 86760, 'tree': 1924, 'lava': 4780, 'water': 36898, 'block': 82431}
+[2025-06-27 16:47:42] Decision: STOP (Water)
+[2025-06-27 16:47:42] Stopping
+[2025-06-27 16:47:42] ENV: {'grass': 85963, 'tree': 1916, 'lava': 4719, 'water': 36926, 'block': 82972}
+[2025-06-27 16:47:42] Decision: STOP (Water)
+[2025-06-27 16:47:42] Stopping
+[2025-06-27 16:47:43] ENV: {'grass': 85634, 'tree': 1926, 'lava': 4691, 'water': 36983, 'block': 82980}
+[2025-06-27 16:47:43] Decision: STOP (Water)
+[2025-06-27 16:47:43] Stopping
+[2025-06-27 16:47:43] ENV: {'grass': 157991, 'tree': 1912, 'lava': 6548, 'water': 22804, 'block': 16044}
+[2025-06-27 16:47:43] Decision: STOP (Water)
+[2025-06-27 16:47:43] Stopping
+[2025-06-27 16:47:43] ENV: {'grass': 158051, 'tree': 1912, 'lava': 6527, 'water': 22507, 'block': 16104}
+[2025-06-27 16:47:43] Decision: STOP (Water)
+[2025-06-27 16:47:43] Stopping
+[2025-06-27 16:47:43] ENV: {'grass': 157972, 'tree': 1922, 'lava': 6516, 'water': 22387, 'block': 16091}
+[2025-06-27 16:47:43] Decision: STOP (Water)
+[2025-06-27 16:47:43] Stopping
+[2025-06-27 16:47:43] ENV: {'grass': 158309, 'tree': 1916, 'lava': 6531, 'water': 22213, 'block': 16097}
+[2025-06-27 16:47:43] Decision: STOP (Water)
+[2025-06-27 16:47:43] Stopping
+[2025-06-27 16:47:44] ENV: {'grass': 158732, 'tree': 1912, 'lava': 6479, 'water': 22053, 'block': 16105}
+[2025-06-27 16:47:44] Decision: STOP (Water)
+[2025-06-27 16:47:44] Stopping
+[2025-06-27 16:47:44] ENV: {'grass': 158914, 'tree': 1902, 'lava': 6504, 'water': 21902, 'block': 16168}
+[2025-06-27 16:47:44] Decision: STOP (Water)
+[2025-06-27 16:47:44] Stopping
+[2025-06-27 16:47:44] ENV: {'grass': 159037, 'tree': 1918, 'lava': 6493, 'water': 21825, 'block': 16153}
+[2025-06-27 16:47:44] Decision: STOP (Water)
+[2025-06-27 16:47:44] Stopping
+[2025-06-27 16:47:44] ENV: {'grass': 159141, 'tree': 1924, 'lava': 6474, 'water': 21684, 'block': 16197}
+[2025-06-27 16:47:44] Decision: STOP (Water)
+[2025-06-27 16:47:44] Stopping
+[2025-06-27 16:47:44] ENV: {'grass': 159358, 'tree': 1920, 'lava': 6478, 'water': 21534, 'block': 16169}
+[2025-06-27 16:47:44] Decision: STOP (Water)
+[2025-06-27 16:47:44] Stopping
+[2025-06-27 16:47:44] ENV: {'grass': 159589, 'tree': 1933, 'lava': 6445, 'water': 21466, 'block': 16169}
+[2025-06-27 16:47:44] Decision: STOP (Water)
+[2025-06-27 16:47:44] Stopping
+[2025-06-27 16:47:45] ENV: {'grass': 159563, 'tree': 1925, 'lava': 6470, 'water': 21326, 'block': 16191}
+[2025-06-27 16:47:45] Decision: STOP (Water)
+[2025-06-27 16:47:45] Stopping
+[2025-06-27 16:47:45] ENV: {'grass': 159544, 'tree': 1924, 'lava': 6445, 'water': 21354, 'block': 16193}
+[2025-06-27 16:47:45] Decision: STOP (Water)
+[2025-06-27 16:47:45] Stopping
+[2025-06-27 16:47:45] ENV: {'grass': 159561, 'tree': 1913, 'lava': 6431, 'water': 21262, 'block': 16166}
+[2025-06-27 16:47:45] Decision: STOP (Water)
+[2025-06-27 16:47:45] Stopping
+[2025-06-27 16:47:45] ENV: {'grass': 159409, 'tree': 1934, 'lava': 6418, 'water': 21173, 'block': 16183}
+[2025-06-27 16:47:45] Decision: STOP (Water)
+[2025-06-27 16:47:45] Stopping
+[2025-06-27 16:47:45] ENV: {'grass': 164982, 'tree': 1913, 'lava': 6669, 'water': 25828, 'block': 17341}
+[2025-06-27 16:47:45] Decision: STOP (Water)
+[2025-06-27 16:47:45] Stopping
+[2025-06-27 16:47:46] ENV: {'grass': 165989, 'tree': 1943, 'lava': 6587, 'water': 33976, 'block': 17120}
+[2025-06-27 16:47:46] Decision: STOP (Water)
+[2025-06-27 16:47:46] Stopping
+[2025-06-27 16:47:46] ENV: {'grass': 162864, 'tree': 1918, 'lava': 6518, 'water': 35075, 'block': 17377}
+[2025-06-27 16:47:46] Decision: STOP (Water)
+[2025-06-27 16:47:46] Stopping
+[2025-06-27 16:47:46] ENV: {'grass': 162223, 'tree': 1914, 'lava': 6611, 'water': 34333, 'block': 17384}
+[2025-06-27 16:47:46] Decision: STOP (Water)
+[2025-06-27 16:47:46] Stopping
+[2025-06-27 16:47:46] ENV: {'grass': 162488, 'tree': 1922, 'lava': 6599, 'water': 33889, 'block': 17445}
+[2025-06-27 16:47:46] Decision: STOP (Water)
+[2025-06-27 16:47:46] Stopping
+[2025-06-27 16:47:46] ENV: {'grass': 162783, 'tree': 1899, 'lava': 6631, 'water': 33573, 'block': 17401}
+[2025-06-27 16:47:46] Decision: STOP (Water)
+[2025-06-27 16:47:46] Stopping
+[2025-06-27 16:47:46] ENV: {'grass': 166487, 'tree': 1923, 'lava': 6844, 'water': 26709, 'block': 17100}
+[2025-06-27 16:47:46] Decision: STOP (Water)
+[2025-06-27 16:47:46] Stopping
+[2025-06-27 16:47:47] ENV: {'grass': 171707, 'tree': 1908, 'lava': 5231, 'water': 14974, 'block': 14951}
+[2025-06-27 16:47:47] Decision: STOP (Water)
+[2025-06-27 16:47:47] Stopping
+[2025-06-27 16:47:47] ENV: {'grass': 174987, 'tree': 1930, 'lava': 3419, 'water': 13574, 'block': 14645}
+[2025-06-27 16:47:47] Decision: STOP (Water)
+[2025-06-27 16:47:47] Stopping
+[2025-06-27 16:47:47] ENV: {'grass': 173860, 'tree': 1930, 'lava': 2736, 'water': 9153, 'block': 13528}
+[2025-06-27 16:47:47] Decision: STOP (Water)
+[2025-06-27 16:47:47] Stopping
+[2025-06-27 16:47:47] ENV: {'grass': 173077, 'tree': 1931, 'lava': 2752, 'water': 9214, 'block': 13657}
+[2025-06-27 16:47:47] Decision: STOP (Water)
+[2025-06-27 16:47:47] Stopping
+[2025-06-27 16:47:47] ENV: {'grass': 173092, 'tree': 1916, 'lava': 2753, 'water': 9220, 'block': 13617}
+[2025-06-27 16:47:47] Decision: STOP (Water)
+[2025-06-27 16:47:47] Stopping
+[2025-06-27 16:47:48] ENV: {'grass': 173281, 'tree': 1931, 'lava': 2752, 'water': 9205, 'block': 13541}
+[2025-06-27 16:47:48] Decision: STOP (Water)
+[2025-06-27 16:47:48] Stopping
+[2025-06-27 16:47:48] ENV: {'grass': 173213, 'tree': 1918, 'lava': 2760, 'water': 9186, 'block': 13519}
+[2025-06-27 16:47:48] Decision: STOP (Water)
+[2025-06-27 16:47:48] Stopping
+[2025-06-27 16:47:48] ENV: {'grass': 172977, 'tree': 1923, 'lava': 2760, 'water': 9175, 'block': 13566}
+[2025-06-27 16:47:48] Decision: STOP (Water)
+[2025-06-27 16:47:48] Stopping
+[2025-06-27 16:47:48] ENV: {'grass': 176739, 'tree': 1919, 'lava': 2750, 'water': 9107, 'block': 13950}
+[2025-06-27 16:47:48] Decision: STOP (Water)
+[2025-06-27 16:47:48] Stopping
+[2025-06-27 16:47:48] ENV: {'grass': 182176, 'tree': 1929, 'lava': 2776, 'water': 9169, 'block': 14273}
+[2025-06-27 16:47:48] Decision: STOP (Water)
+[2025-06-27 16:47:48] Stopping
+[2025-06-27 16:47:48] ENV: {'grass': 183859, 'tree': 1923, 'lava': 2801, 'water': 9865, 'block': 14340}
+[2025-06-27 16:47:48] Decision: STOP (Water)
+[2025-06-27 16:47:48] Stopping
+[2025-06-27 16:47:49] ENV: {'grass': 182012, 'tree': 1922, 'lava': 2760, 'water': 9268, 'block': 14347}
+[2025-06-27 16:47:49] Decision: STOP (Water)
+[2025-06-27 16:47:49] Stopping
+[2025-06-27 16:47:49] ENV: {'grass': 184831, 'tree': 1931, 'lava': 2753, 'water': 9195, 'block': 14499}
+[2025-06-27 16:47:49] Decision: STOP (Water)
+[2025-06-27 16:47:49] Stopping
+[2025-06-27 16:47:49] ENV: {'grass': 183673, 'tree': 1923, 'lava': 2737, 'water': 9154, 'block': 14459}
+[2025-06-27 16:47:49] Decision: STOP (Water)
+[2025-06-27 16:47:49] Stopping
+[2025-06-27 16:47:49] ENV: {'grass': 182410, 'tree': 1924, 'lava': 2790, 'water': 9240, 'block': 14666}
+[2025-06-27 16:47:49] Decision: STOP (Water)
+[2025-06-27 16:47:49] Stopping
+[2025-06-27 16:47:49] ENV: {'grass': 182131, 'tree': 1933, 'lava': 2784, 'water': 9224, 'block': 14565}
+[2025-06-27 16:47:49] Decision: STOP (Water)
+[2025-06-27 16:47:49] Stopping
+[2025-06-27 16:47:50] ENV: {'grass': 181966, 'tree': 1942, 'lava': 2795, 'water': 9284, 'block': 14646}
+[2025-06-27 16:47:50] Decision: STOP (Water)
+[2025-06-27 16:47:50] Stopping
+[2025-06-27 16:47:50] ENV: {'grass': 226883, 'tree': 1955, 'lava': 2668, 'water': 7480, 'block': 14549}
+[2025-06-27 16:47:50] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:50] Jumping
+[2025-06-27 16:47:50] ENV: {'grass': 235491, 'tree': 1990, 'lava': 2658, 'water': 7168, 'block': 12551}
+[2025-06-27 16:47:50] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:50] Jumping
+[2025-06-27 16:47:50] ENV: {'grass': 220595, 'tree': 1924, 'lava': 2532, 'water': 5178, 'block': 13792}
+[2025-06-27 16:47:50] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:50] Jumping
+[2025-06-27 16:47:50] ENV: {'grass': 212944, 'tree': 1920, 'lava': 2553, 'water': 5203, 'block': 18370}
+[2025-06-27 16:47:50] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:50] Jumping
+[2025-06-27 16:47:50] ENV: {'grass': 202954, 'tree': 1920, 'lava': 2559, 'water': 5176, 'block': 17842}
+[2025-06-27 16:47:50] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:50] Jumping
+[2025-06-27 16:47:51] ENV: {'grass': 201058, 'tree': 1917, 'lava': 2559, 'water': 5161, 'block': 17875}
+[2025-06-27 16:47:51] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:51] Jumping
+[2025-06-27 16:47:51] ENV: {'grass': 199844, 'tree': 1920, 'lava': 2564, 'water': 5171, 'block': 17731}
+[2025-06-27 16:47:51] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:51] Jumping
+[2025-06-27 16:47:51] ENV: {'grass': 199753, 'tree': 1917, 'lava': 2578, 'water': 5193, 'block': 17666}
+[2025-06-27 16:47:51] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:51] Jumping
+[2025-06-27 16:47:51] ENV: {'grass': 199674, 'tree': 1924, 'lava': 2576, 'water': 5182, 'block': 17689}
+[2025-06-27 16:47:51] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:51] Jumping
+[2025-06-27 16:47:51] ENV: {'grass': 199722, 'tree': 1913, 'lava': 2576, 'water': 5180, 'block': 17674}
+[2025-06-27 16:47:51] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:51] Jumping
+[2025-06-27 16:47:52] ENV: {'grass': 200068, 'tree': 1921, 'lava': 2569, 'water': 5179, 'block': 17676}
+[2025-06-27 16:47:52] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:52] Jumping
+[2025-06-27 16:47:52] ENV: {'grass': 200110, 'tree': 1912, 'lava': 2575, 'water': 5175, 'block': 17680}
+[2025-06-27 16:47:52] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:52] Jumping
+[2025-06-27 16:47:52] ENV: {'grass': 198418, 'tree': 1913, 'lava': 2568, 'water': 5164, 'block': 17688}
+[2025-06-27 16:47:52] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:52] Jumping
+[2025-06-27 16:47:52] ENV: {'grass': 198441, 'tree': 1915, 'lava': 2573, 'water': 5159, 'block': 17660}
+[2025-06-27 16:47:52] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:52] Jumping
+[2025-06-27 16:47:52] ENV: {'grass': 198196, 'tree': 1920, 'lava': 2572, 'water': 5162, 'block': 17676}
+[2025-06-27 16:47:52] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:52] Jumping
+[2025-06-27 16:47:52] ENV: {'grass': 198025, 'tree': 1920, 'lava': 2574, 'water': 5155, 'block': 17664}
+[2025-06-27 16:47:53] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:53] Jumping
+[2025-06-27 16:47:53] ENV: {'grass': 197938, 'tree': 1912, 'lava': 2571, 'water': 5164, 'block': 17647}
+[2025-06-27 16:47:53] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:53] Jumping
+[2025-06-27 16:47:53] ENV: {'grass': 197875, 'tree': 1922, 'lava': 2564, 'water': 5140, 'block': 18144}
+[2025-06-27 16:47:53] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:53] Jumping
+[2025-06-27 16:47:53] ENV: {'grass': 201011, 'tree': 1913, 'lava': 2575, 'water': 5157, 'block': 18138}
+[2025-06-27 16:47:53] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:53] Jumping
+[2025-06-27 16:47:53] ENV: {'grass': 201842, 'tree': 1921, 'lava': 2563, 'water': 5144, 'block': 17207}
+[2025-06-27 16:47:53] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:53] Jumping
+[2025-06-27 16:47:53] ENV: {'grass': 202084, 'tree': 1910, 'lava': 2577, 'water': 5152, 'block': 17161}
+[2025-06-27 16:47:53] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:53] Jumping
+[2025-06-27 16:47:54] ENV: {'grass': 202126, 'tree': 1916, 'lava': 2565, 'water': 5149, 'block': 17178}
+[2025-06-27 16:47:54] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:54] Jumping
+[2025-06-27 16:47:54] ENV: {'grass': 202168, 'tree': 1918, 'lava': 2562, 'water': 5140, 'block': 17161}
+[2025-06-27 16:47:54] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:54] Jumping
+[2025-06-27 16:47:54] ENV: {'grass': 202099, 'tree': 1915, 'lava': 2568, 'water': 5164, 'block': 17173}
+[2025-06-27 16:47:54] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:54] Jumping
+[2025-06-27 16:47:54] ENV: {'grass': 202178, 'tree': 1921, 'lava': 2566, 'water': 5159, 'block': 17176}
+[2025-06-27 16:47:54] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:54] Jumping
+[2025-06-27 16:47:54] ENV: {'grass': 202129, 'tree': 1921, 'lava': 2567, 'water': 5155, 'block': 17186}
+[2025-06-27 16:47:54] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:54] Jumping
+[2025-06-27 16:47:55] ENV: {'grass': 202034, 'tree': 1917, 'lava': 2567, 'water': 5155, 'block': 17173}
+[2025-06-27 16:47:55] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:55] Jumping
+[2025-06-27 16:47:55] ENV: {'grass': 202099, 'tree': 1918, 'lava': 2568, 'water': 5157, 'block': 17153}
+[2025-06-27 16:47:55] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:55] Jumping
+[2025-06-27 16:47:55] ENV: {'grass': 202143, 'tree': 1918, 'lava': 2561, 'water': 5152, 'block': 17164}
+[2025-06-27 16:47:55] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:55] Jumping
+[2025-06-27 16:47:55] ENV: {'grass': 202142, 'tree': 1920, 'lava': 2568, 'water': 5161, 'block': 17187}
+[2025-06-27 16:47:55] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:55] Jumping
+[2025-06-27 16:47:55] ENV: {'grass': 202253, 'tree': 1914, 'lava': 2570, 'water': 5163, 'block': 17160}
+[2025-06-27 16:47:55] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:55] Jumping
+[2025-06-27 16:47:55] ENV: {'grass': 202314, 'tree': 1919, 'lava': 2566, 'water': 5162, 'block': 17171}
+[2025-06-27 16:47:55] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:55] Jumping
+[2025-06-27 16:47:56] ENV: {'grass': 202285, 'tree': 1912, 'lava': 2561, 'water': 5147, 'block': 17162}
+[2025-06-27 16:47:56] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:56] Jumping
+[2025-06-27 16:47:56] ENV: {'grass': 202374, 'tree': 1910, 'lava': 2568, 'water': 5169, 'block': 17167}
+[2025-06-27 16:47:56] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:56] Jumping
+[2025-06-27 16:47:56] ENV: {'grass': 202402, 'tree': 1919, 'lava': 2568, 'water': 5160, 'block': 17162}
+[2025-06-27 16:47:56] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:56] Jumping
+[2025-06-27 16:47:56] ENV: {'grass': 202894, 'tree': 1914, 'lava': 2565, 'water': 5158, 'block': 17185}
+[2025-06-27 16:47:56] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:56] Jumping
+[2025-06-27 16:47:56] ENV: {'grass': 212035, 'tree': 1915, 'lava': 2547, 'water': 5157, 'block': 16617}
+[2025-06-27 16:47:56] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:56] Jumping
+[2025-06-27 16:47:57] ENV: {'grass': 231127, 'tree': 1980, 'lava': 3054, 'water': 11119, 'block': 16940}
+[2025-06-27 16:47:57] Decision: STOP (Water)
+[2025-06-27 16:47:57] Stopping
+[2025-06-27 16:47:57] ENV: {'grass': 188481, 'tree': 2000, 'lava': 3956, 'water': 13876, 'block': 16758}
+[2025-06-27 16:47:57] Decision: STOP (Water)
+[2025-06-27 16:47:57] Stopping
+[2025-06-27 16:47:57] ENV: {'grass': 187596, 'tree': 2000, 'lava': 3994, 'water': 13810, 'block': 16779}
+[2025-06-27 16:47:57] Decision: STOP (Water)
+[2025-06-27 16:47:57] Stopping
+[2025-06-27 16:47:57] ENV: {'grass': 174887, 'tree': 1940, 'lava': 4067, 'water': 17673, 'block': 18681}
+[2025-06-27 16:47:57] Decision: STOP (Water)
+[2025-06-27 16:47:57] Stopping
+[2025-06-27 16:47:57] ENV: {'grass': 171287, 'tree': 1933, 'lava': 4053, 'water': 19430, 'block': 18223}
+[2025-06-27 16:47:57] Decision: STOP (Water)
+[2025-06-27 16:47:57] Stopping
+[2025-06-27 16:47:57] ENV: {'grass': 172049, 'tree': 1950, 'lava': 4093, 'water': 19293, 'block': 18153}
+[2025-06-27 16:47:57] Decision: STOP (Water)
+[2025-06-27 16:47:57] Stopping
+[2025-06-27 16:47:58] ENV: {'grass': 172064, 'tree': 1942, 'lava': 4071, 'water': 19182, 'block': 18086}
+[2025-06-27 16:47:58] Decision: STOP (Water)
+[2025-06-27 16:47:58] Stopping
+[2025-06-27 16:47:58] ENV: {'grass': 172143, 'tree': 1942, 'lava': 4088, 'water': 19120, 'block': 18029}
+[2025-06-27 16:47:58] Decision: STOP (Water)
+[2025-06-27 16:47:58] Stopping
+[2025-06-27 16:47:58] ENV: {'grass': 171945, 'tree': 1954, 'lava': 4088, 'water': 19047, 'block': 18051}
+[2025-06-27 16:47:58] Decision: STOP (Water)
+[2025-06-27 16:47:58] Stopping
+[2025-06-27 16:47:58] ENV: {'grass': 171836, 'tree': 1958, 'lava': 4050, 'water': 18949, 'block': 18063}
+[2025-06-27 16:47:58] Decision: STOP (Water)
+[2025-06-27 16:47:58] Stopping
+[2025-06-27 16:47:58] ENV: {'grass': 171758, 'tree': 1967, 'lava': 4029, 'water': 18882, 'block': 18155}
+[2025-06-27 16:47:58] Decision: STOP (Water)
+[2025-06-27 16:47:58] Stopping
+[2025-06-27 16:47:59] ENV: {'grass': 171612, 'tree': 1956, 'lava': 4017, 'water': 18750, 'block': 18205}
+[2025-06-27 16:47:59] Decision: STOP (Water)
+[2025-06-27 16:47:59] Stopping
+[2025-06-27 16:47:59] ENV: {'grass': 140003, 'tree': 1991, 'lava': 2664, 'water': 6770, 'block': 14035}
+[2025-06-27 16:47:59] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:59] Jumping
+[2025-06-27 16:47:59] ENV: {'grass': 109153, 'tree': 3176, 'lava': 2665, 'water': 6051, 'block': 20840}
+[2025-06-27 16:47:59] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:59] Jumping
+[2025-06-27 16:47:59] ENV: {'grass': 109391, 'tree': 3090, 'lava': 2673, 'water': 6023, 'block': 21753}
+[2025-06-27 16:47:59] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:59] Jumping
+[2025-06-27 16:47:59] ENV: {'grass': 116931, 'tree': 3194, 'lava': 2641, 'water': 6265, 'block': 22810}
+[2025-06-27 16:47:59] Decision: JUMP (Block Ahead)
+[2025-06-27 16:47:59] Jumping
+[2025-06-27 16:47:59] ENV: {'grass': 148955, 'tree': 3269, 'lava': 2582, 'water': 9110, 'block': 24952}
+[2025-06-27 16:47:59] Decision: STOP (Water)
+[2025-06-27 16:47:59] Stopping
+[2025-06-27 16:48:00] ENV: {'grass': 149579, 'tree': 3179, 'lava': 2611, 'water': 10344, 'block': 25666}
+[2025-06-27 16:48:00] Decision: STOP (Water)
+[2025-06-27 16:48:00] Stopping
+[2025-06-27 16:48:00] ENV: {'grass': 155826, 'tree': 3218, 'lava': 2611, 'water': 8724, 'block': 25969}
+[2025-06-27 16:48:00] Decision: STOP (Water)
+[2025-06-27 16:48:00] Stopping
+[2025-06-27 16:48:00] ENV: {'grass': 157666, 'tree': 3459, 'lava': 2604, 'water': 7985, 'block': 25549}
+[2025-06-27 16:48:00] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:00] Jumping
+[2025-06-27 16:48:00] ENV: {'grass': 184058, 'tree': 3495, 'lava': 2589, 'water': 7625, 'block': 27219}
+[2025-06-27 16:48:00] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:00] Jumping
+[2025-06-27 16:48:00] ENV: {'grass': 188129, 'tree': 3841, 'lava': 2573, 'water': 7758, 'block': 27344}
+[2025-06-27 16:48:00] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:00] Jumping
+[2025-06-27 16:48:01] ENV: {'grass': 188148, 'tree': 3882, 'lava': 2593, 'water': 7771, 'block': 27262}
+[2025-06-27 16:48:01] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:01] Jumping
+[2025-06-27 16:48:01] ENV: {'grass': 187733, 'tree': 3926, 'lava': 2601, 'water': 7727, 'block': 27427}
+[2025-06-27 16:48:01] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:01] Jumping
+[2025-06-27 16:48:01] ENV: {'grass': 187349, 'tree': 4000, 'lava': 2611, 'water': 7709, 'block': 27439}
+[2025-06-27 16:48:01] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:01] Jumping
+[2025-06-27 16:48:01] ENV: {'grass': 187379, 'tree': 4017, 'lava': 2617, 'water': 7721, 'block': 27396}
+[2025-06-27 16:48:01] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:01] Jumping
+[2025-06-27 16:48:01] ENV: {'grass': 187511, 'tree': 4066, 'lava': 2625, 'water': 7736, 'block': 27385}
+[2025-06-27 16:48:01] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:01] Jumping
+[2025-06-27 16:48:01] ENV: {'grass': 187787, 'tree': 4072, 'lava': 2622, 'water': 7728, 'block': 27371}
+[2025-06-27 16:48:01] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:01] Jumping
+[2025-06-27 16:48:02] ENV: {'grass': 188037, 'tree': 4079, 'lava': 2611, 'water': 7728, 'block': 27413}
+[2025-06-27 16:48:02] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:02] Jumping
+[2025-06-27 16:48:02] ENV: {'grass': 188090, 'tree': 4126, 'lava': 2592, 'water': 7700, 'block': 27408}
+[2025-06-27 16:48:02] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:02] Jumping
+[2025-06-27 16:48:02] ENV: {'grass': 191958, 'tree': 3909, 'lava': 2577, 'water': 7722, 'block': 26781}
+[2025-06-27 16:48:02] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:02] Jumping
+[2025-06-27 16:48:02] ENV: {'grass': 191824, 'tree': 3633, 'lava': 2588, 'water': 7712, 'block': 24129}
+[2025-06-27 16:48:02] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:02] Jumping
+[2025-06-27 16:48:02] ENV: {'grass': 179711, 'tree': 3360, 'lava': 2591, 'water': 7829, 'block': 27373}
+[2025-06-27 16:48:02] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:02] Jumping
+[2025-06-27 16:48:03] ENV: {'grass': 168550, 'tree': 3469, 'lava': 2610, 'water': 7901, 'block': 23298}
+[2025-06-27 16:48:03] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:03] Jumping
+[2025-06-27 16:48:03] ENV: {'grass': 134628, 'tree': 3151, 'lava': 2622, 'water': 7661, 'block': 22286}
+[2025-06-27 16:48:03] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:03] Jumping
+[2025-06-27 16:48:03] ENV: {'grass': 141746, 'tree': 3100, 'lava': 2600, 'water': 7829, 'block': 23905}
+[2025-06-27 16:48:03] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:03] Jumping
+[2025-06-27 16:48:03] ENV: {'grass': 120527, 'tree': 2624, 'lava': 2616, 'water': 7436, 'block': 21380}
+[2025-06-27 16:48:03] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:03] Jumping
+[2025-06-27 16:48:03] ENV: {'grass': 90734, 'tree': 2916, 'lava': 2609, 'water': 6265, 'block': 21576}
+[2025-06-27 16:48:04] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:04] Jumping
+[2025-06-27 16:48:04] ENV: {'grass': 87221, 'tree': 3027, 'lava': 2591, 'water': 5263, 'block': 22368}
+[2025-06-27 16:48:04] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:04] Jumping
+[2025-06-27 16:48:04] ENV: {'grass': 86648, 'tree': 2956, 'lava': 2591, 'water': 5289, 'block': 22636}
+[2025-06-27 16:48:04] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:04] Jumping
+[2025-06-27 16:48:04] ENV: {'grass': 86700, 'tree': 3074, 'lava': 2599, 'water': 5276, 'block': 22578}
+[2025-06-27 16:48:04] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:04] Jumping
+[2025-06-27 16:48:04] ENV: {'grass': 90546, 'tree': 3143, 'lava': 2628, 'water': 5463, 'block': 22530}
+[2025-06-27 16:48:04] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:04] Jumping
+[2025-06-27 16:48:04] ENV: {'grass': 98482, 'tree': 2226, 'lava': 2555, 'water': 5323, 'block': 18313}
+[2025-06-27 16:48:04] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:04] Jumping
+[2025-06-27 16:48:05] ENV: {'grass': 98608, 'tree': 2080, 'lava': 2550, 'water': 5338, 'block': 14156}
+[2025-06-27 16:48:05] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:05] Jumping
+[2025-06-27 16:48:05] ENV: {'grass': 97384, 'tree': 2078, 'lava': 2547, 'water': 5315, 'block': 14130}
+[2025-06-27 16:48:05] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:05] Jumping
+[2025-06-27 16:48:05] ENV: {'grass': 96331, 'tree': 2099, 'lava': 2543, 'water': 5329, 'block': 14335}
+[2025-06-27 16:48:05] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:05] Jumping
+[2025-06-27 16:48:05] ENV: {'grass': 96620, 'tree': 2117, 'lava': 2546, 'water': 5302, 'block': 14357}
+[2025-06-27 16:48:05] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:05] Jumping
+[2025-06-27 16:48:05] ENV: {'grass': 96820, 'tree': 2084, 'lava': 2553, 'water': 5290, 'block': 14149}
+[2025-06-27 16:48:05] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:05] Jumping
+[2025-06-27 16:48:06] ENV: {'grass': 96710, 'tree': 2122, 'lava': 2552, 'water': 5346, 'block': 14312}
+[2025-06-27 16:48:06] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:06] Jumping
+[2025-06-27 16:48:06] ENV: {'grass': 96546, 'tree': 2135, 'lava': 2545, 'water': 5309, 'block': 14407}
+[2025-06-27 16:48:06] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:06] Jumping
+[2025-06-27 16:48:06] ENV: {'grass': 96253, 'tree': 2101, 'lava': 2552, 'water': 5306, 'block': 13994}
+[2025-06-27 16:48:06] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:06] Jumping
+[2025-06-27 16:48:06] ENV: {'grass': 89429, 'tree': 2132, 'lava': 2578, 'water': 5418, 'block': 12885}
+[2025-06-27 16:48:06] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:06] Jumping
+[2025-06-27 16:48:06] ENV: {'grass': 89588, 'tree': 2114, 'lava': 2572, 'water': 5440, 'block': 13070}
+[2025-06-27 16:48:06] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:06] Jumping
+[2025-06-27 16:48:06] ENV: {'grass': 90866, 'tree': 2130, 'lava': 2579, 'water': 5467, 'block': 13101}
+[2025-06-27 16:48:06] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:06] Jumping
+[2025-06-27 16:48:07] ENV: {'grass': 97898, 'tree': 2262, 'lava': 2573, 'water': 5468, 'block': 13587}
+[2025-06-27 16:48:07] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:07] Jumping
+[2025-06-27 16:48:07] ENV: {'grass': 99809, 'tree': 2278, 'lava': 2581, 'water': 5469, 'block': 13562}
+[2025-06-27 16:48:07] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:07] Jumping
+[2025-06-27 16:48:07] ENV: {'grass': 100013, 'tree': 2293, 'lava': 2580, 'water': 5467, 'block': 13338}
+[2025-06-27 16:48:07] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:07] Jumping
+[2025-06-27 16:48:07] ENV: {'grass': 98712, 'tree': 2380, 'lava': 2583, 'water': 5630, 'block': 12742}
+[2025-06-27 16:48:07] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:07] Jumping
+[2025-06-27 16:48:07] ENV: {'grass': 122908, 'tree': 2453, 'lava': 2566, 'water': 6046, 'block': 14183}
+[2025-06-27 16:48:07] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:07] Jumping
+[2025-06-27 16:48:08] ENV: {'grass': 152550, 'tree': 2820, 'lava': 2561, 'water': 6031, 'block': 14475}
+[2025-06-27 16:48:08] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:08] Jumping
+[2025-06-27 16:48:08] ENV: {'grass': 185120, 'tree': 2763, 'lava': 2562, 'water': 6067, 'block': 15139}
+[2025-06-27 16:48:08] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:08] Jumping
+[2025-06-27 16:48:08] ENV: {'grass': 172729, 'tree': 2846, 'lava': 2568, 'water': 5909, 'block': 14084}
+[2025-06-27 16:48:08] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:08] Jumping
+[2025-06-27 16:48:08] ENV: {'grass': 182514, 'tree': 2816, 'lava': 2562, 'water': 5894, 'block': 14094}
+[2025-06-27 16:48:08] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:08] Jumping
+[2025-06-27 16:48:08] ENV: {'grass': 183812, 'tree': 3001, 'lava': 2557, 'water': 5733, 'block': 13680}
+[2025-06-27 16:48:08] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:08] Jumping
+[2025-06-27 16:48:08] ENV: {'grass': 177433, 'tree': 3251, 'lava': 2562, 'water': 5656, 'block': 13037}
+[2025-06-27 16:48:08] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:08] Jumping
+[2025-06-27 16:48:09] ENV: {'grass': 181524, 'tree': 3572, 'lava': 2563, 'water': 5485, 'block': 12769}
+[2025-06-27 16:48:09] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:09] Jumping
+[2025-06-27 16:48:09] ENV: {'grass': 181104, 'tree': 3947, 'lava': 2568, 'water': 5498, 'block': 13575}
+[2025-06-27 16:48:09] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:09] Jumping
+[2025-06-27 16:48:09] ENV: {'grass': 176424, 'tree': 4169, 'lava': 2575, 'water': 5535, 'block': 13631}
+[2025-06-27 16:48:09] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:09] Jumping
+[2025-06-27 16:48:09] ENV: {'grass': 173384, 'tree': 4758, 'lava': 2591, 'water': 5519, 'block': 13403}
+[2025-06-27 16:48:09] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:09] Jumping
+[2025-06-27 16:48:09] ENV: {'grass': 171832, 'tree': 4630, 'lava': 2575, 'water': 5504, 'block': 13160}
+[2025-06-27 16:48:09] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:09] Jumping
+[2025-06-27 16:48:10] ENV: {'grass': 164031, 'tree': 3360, 'lava': 2576, 'water': 5475, 'block': 12894}
+[2025-06-27 16:48:10] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:10] Jumping
+[2025-06-27 16:48:10] ENV: {'grass': 164146, 'tree': 3382, 'lava': 2567, 'water': 5456, 'block': 13045}
+[2025-06-27 16:48:10] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:10] Jumping
+[2025-06-27 16:48:10] ENV: {'grass': 164259, 'tree': 3438, 'lava': 2577, 'water': 5487, 'block': 13007}
+[2025-06-27 16:48:10] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:10] Jumping
+[2025-06-27 16:48:10] ENV: {'grass': 173541, 'tree': 2767, 'lava': 2560, 'water': 5475, 'block': 13086}
+[2025-06-27 16:48:10] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:10] Jumping
+[2025-06-27 16:48:10] ENV: {'grass': 184438, 'tree': 2218, 'lava': 2563, 'water': 5469, 'block': 13080}
+[2025-06-27 16:48:10] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:10] Jumping
+[2025-06-27 16:48:10] ENV: {'grass': 188783, 'tree': 2082, 'lava': 2567, 'water': 5462, 'block': 12716}
+[2025-06-27 16:48:10] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:10] Jumping
+[2025-06-27 16:48:11] ENV: {'grass': 191339, 'tree': 1960, 'lava': 2560, 'water': 5394, 'block': 11427}
+[2025-06-27 16:48:11] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:11] Jumping
+[2025-06-27 16:48:11] ENV: {'grass': 188901, 'tree': 1979, 'lava': 2555, 'water': 5384, 'block': 11413}
+[2025-06-27 16:48:11] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:11] Jumping
+[2025-06-27 16:48:11] ENV: {'grass': 188703, 'tree': 1969, 'lava': 2584, 'water': 5415, 'block': 11339}
+[2025-06-27 16:48:11] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:11] Jumping
+[2025-06-27 16:48:11] ENV: {'grass': 188627, 'tree': 1992, 'lava': 2581, 'water': 5388, 'block': 11246}
+[2025-06-27 16:48:11] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:11] Jumping
+[2025-06-27 16:48:11] ENV: {'grass': 188741, 'tree': 1992, 'lava': 2578, 'water': 5402, 'block': 11209}
+[2025-06-27 16:48:11] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:11] Jumping
+[2025-06-27 16:48:12] ENV: {'grass': 188915, 'tree': 1989, 'lava': 2577, 'water': 5388, 'block': 11190}
+[2025-06-27 16:48:12] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:12] Jumping
+[2025-06-27 16:48:12] ENV: {'grass': 69962, 'tree': 1926, 'lava': 1216, 'water': 4079, 'block': 83366}
+[2025-06-27 16:48:12] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:12] Jumping
+[2025-06-27 16:48:12] ENV: {'grass': 69717, 'tree': 1924, 'lava': 1213, 'water': 4073, 'block': 83387}
+[2025-06-27 16:48:12] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:12] Jumping
+[2025-06-27 16:48:12] ENV: {'grass': 69734, 'tree': 1916, 'lava': 1219, 'water': 4095, 'block': 83371}
+[2025-06-27 16:48:12] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:12] Jumping
+[2025-06-27 16:48:12] ENV: {'grass': 68591, 'tree': 1919, 'lava': 1218, 'water': 4074, 'block': 84429}
+[2025-06-27 16:48:12] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:12] Jumping
+[2025-06-27 16:48:12] ENV: {'grass': 68554, 'tree': 1920, 'lava': 1222, 'water': 4087, 'block': 84448}
+[2025-06-27 16:48:12] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:12] Jumping
+[2025-06-27 16:48:13] ENV: {'grass': 68547, 'tree': 1928, 'lava': 1226, 'water': 4085, 'block': 84458}
+[2025-06-27 16:48:13] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:13] Jumping
+[2025-06-27 16:48:13] ENV: {'grass': 68586, 'tree': 1929, 'lava': 1207, 'water': 4069, 'block': 84450}
+[2025-06-27 16:48:13] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:13] Jumping
+[2025-06-27 16:48:13] ENV: {'grass': 68585, 'tree': 1929, 'lava': 1205, 'water': 4068, 'block': 84463}
+[2025-06-27 16:48:13] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:13] Jumping
+[2025-06-27 16:48:13] ENV: {'grass': 68565, 'tree': 1922, 'lava': 1208, 'water': 4079, 'block': 84474}
+[2025-06-27 16:48:13] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:13] Jumping
+[2025-06-27 16:48:13] ENV: {'grass': 69710, 'tree': 1927, 'lava': 1207, 'water': 4068, 'block': 83393}
+[2025-06-27 16:48:13] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:13] Jumping
+[2025-06-27 16:48:14] ENV: {'grass': 69738, 'tree': 1923, 'lava': 1207, 'water': 4070, 'block': 83391}
+[2025-06-27 16:48:14] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:14] Jumping
+[2025-06-27 16:48:14] ENV: {'grass': 69760, 'tree': 1922, 'lava': 1212, 'water': 4081, 'block': 83382}
+[2025-06-27 16:48:14] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:14] Jumping
+[2025-06-27 16:48:14] ENV: {'grass': 69731, 'tree': 1924, 'lava': 1208, 'water': 4072, 'block': 83395}
+[2025-06-27 16:48:14] Decision: JUMP (Block Ahead)
+[2025-06-27 16:48:14] Jumping
+[2025-06-27 16:48:14] ENV: {'grass': 27087, 'tree': 3663, 'lava': 1933, 'water': 5205, 'block': 1695}
+[2025-06-27 16:48:14] Decision: SPRINT FORWARD
+[2025-06-27 16:48:14] Sprinting Forward
+[2025-06-27 16:48:15] Stopping
+[2025-06-27 16:55:21] ENV: {'grass': 32407, 'tree': 3468, 'lava': 1766, 'water': 4568, 'block': 26}
+[2025-06-27 16:55:21] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:21] Stopping
+[2025-06-27 16:55:21] ENV: {'grass': 32259, 'tree': 2983, 'lava': 1566, 'water': 4068, 'block': 26}
+[2025-06-27 16:55:21] Decision: STOP (Unknown environment)
+[2025-06-27 16:55:21] Stopping
+[2025-06-27 16:55:21] ENV: {'grass': 36373, 'tree': 3081, 'lava': 1647, 'water': 3975, 'block': 26}
+[2025-06-27 16:55:21] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:21] Stopping
+[2025-06-27 16:55:22] ENV: {'grass': 36467, 'tree': 3282, 'lava': 1764, 'water': 4216, 'block': 26}
+[2025-06-27 16:55:22] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:22] Stopping
+[2025-06-27 16:55:22] ENV: {'grass': 36600, 'tree': 3512, 'lava': 1887, 'water': 4511, 'block': 26}
+[2025-06-27 16:55:22] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:22] Stopping
+[2025-06-27 16:55:22] ENV: {'grass': 36602, 'tree': 3512, 'lava': 1885, 'water': 4524, 'block': 26}
+[2025-06-27 16:55:22] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:22] Stopping
+[2025-06-27 16:55:22] ENV: {'grass': 75380, 'tree': 1936, 'lava': 1316, 'water': 2787, 'block': 23070}
+[2025-06-27 16:55:22] Decision: JUMP FORWARD (Block)
+[2025-06-27 16:55:22] Jumping While Moving Forward
+[2025-06-27 16:55:23] ENV: {'grass': 70941, 'tree': 1939, 'lava': 1305, 'water': 2785, 'block': 23083}
+[2025-06-27 16:55:23] Decision: JUMP FORWARD (Block)
+[2025-06-27 16:55:23] Jumping While Moving Forward
+[2025-06-27 16:55:23] ENV: {'grass': 188524, 'tree': 4112, 'lava': 2609, 'water': 3532, 'block': 1768}
+[2025-06-27 16:55:23] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:23] Stopping
+[2025-06-27 16:55:23] ENV: {'grass': 187947, 'tree': 4135, 'lava': 2614, 'water': 3524, 'block': 1759}
+[2025-06-27 16:55:23] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:23] Stopping
+[2025-06-27 16:55:24] ENV: {'grass': 187988, 'tree': 4129, 'lava': 2606, 'water': 3515, 'block': 1757}
+[2025-06-27 16:55:24] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:24] Stopping
+[2025-06-27 16:55:24] ENV: {'grass': 188202, 'tree': 4141, 'lava': 2605, 'water': 3511, 'block': 1751}
+[2025-06-27 16:55:24] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:24] Stopping
+[2025-06-27 16:55:24] ENV: {'grass': 188169, 'tree': 4153, 'lava': 2609, 'water': 3514, 'block': 1747}
+[2025-06-27 16:55:24] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:24] Stopping
+[2025-06-27 16:55:24] ENV: {'grass': 188188, 'tree': 4177, 'lava': 2614, 'water': 3504, 'block': 1747}
+[2025-06-27 16:55:24] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:24] Stopping
+[2025-06-27 16:55:24] ENV: {'grass': 188388, 'tree': 4167, 'lava': 2614, 'water': 3506, 'block': 1744}
+[2025-06-27 16:55:24] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:24] Stopping
+[2025-06-27 16:55:25] ENV: {'grass': 195897, 'tree': 2416, 'lava': 2614, 'water': 3498, 'block': 1773}
+[2025-06-27 16:55:25] Decision: SPRINT FORWARD
+[2025-06-27 16:55:25] Sprinting Forward
+[2025-06-27 16:55:25] ENV: {'grass': 204852, 'tree': 2003, 'lava': 2622, 'water': 3647, 'block': 1628}
+[2025-06-27 16:55:25] Decision: SPRINT FORWARD
+[2025-06-27 16:55:25] Sprinting Forward
+[2025-06-27 16:55:26] ENV: {'grass': 216005, 'tree': 2221, 'lava': 2628, 'water': 3656, 'block': 1658}
+[2025-06-27 16:55:26] Decision: SPRINT FORWARD
+[2025-06-27 16:55:26] Sprinting Forward
+[2025-06-27 16:55:27] ENV: {'grass': 219925, 'tree': 2397, 'lava': 2606, 'water': 3724, 'block': 1830}
+[2025-06-27 16:55:27] Decision: SPRINT FORWARD
+[2025-06-27 16:55:27] Sprinting Forward
+[2025-06-27 16:55:28] ENV: {'grass': 233341, 'tree': 2332, 'lava': 2617, 'water': 3678, 'block': 1959}
+[2025-06-27 16:55:28] Decision: SPRINT FORWARD
+[2025-06-27 16:55:28] Sprinting Forward
+[2025-06-27 16:55:28] ENV: {'grass': 228497, 'tree': 2300, 'lava': 2619, 'water': 3849, 'block': 2086}
+[2025-06-27 16:55:28] Decision: SPRINT FORWARD
+[2025-06-27 16:55:28] Sprinting Forward
+[2025-06-27 16:55:29] ENV: {'grass': 225729, 'tree': 2303, 'lava': 2615, 'water': 4458, 'block': 2195}
+[2025-06-27 16:55:29] Decision: SPRINT FORWARD
+[2025-06-27 16:55:29] Sprinting Forward
+[2025-06-27 16:55:30] ENV: {'grass': 234022, 'tree': 2393, 'lava': 2615, 'water': 5067, 'block': 2400}
+[2025-06-27 16:55:30] Decision: SPRINT FORWARD
+[2025-06-27 16:55:30] Sprinting Forward
+[2025-06-27 16:55:31] ENV: {'grass': 248156, 'tree': 2274, 'lava': 2612, 'water': 6094, 'block': 2694}
+[2025-06-27 16:55:31] Decision: SPRINT FORWARD
+[2025-06-27 16:55:31] Sprinting Forward
+[2025-06-27 16:55:31] ENV: {'grass': 251560, 'tree': 2052, 'lava': 2616, 'water': 7048, 'block': 3068}
+[2025-06-27 16:55:31] Decision: SPRINT FORWARD
+[2025-06-27 16:55:31] Sprinting Forward
+[2025-06-27 16:55:32] ENV: {'grass': 252862, 'tree': 2122, 'lava': 2624, 'water': 7755, 'block': 3309}
+[2025-06-27 16:55:32] Decision: SPRINT FORWARD
+[2025-06-27 16:55:32] Sprinting Forward
+[2025-06-27 16:55:33] ENV: {'grass': 262637, 'tree': 2134, 'lava': 2625, 'water': 8115, 'block': 3421}
+[2025-06-27 16:55:33] Decision: SPRINT FORWARD
+[2025-06-27 16:55:33] Sprinting Forward
+[2025-06-27 16:55:34] ENV: {'grass': 264044, 'tree': 2106, 'lava': 2621, 'water': 8330, 'block': 3390}
+[2025-06-27 16:55:34] Decision: SPRINT FORWARD
+[2025-06-27 16:55:34] Sprinting Forward
+[2025-06-27 16:55:34] ENV: {'grass': 273317, 'tree': 2190, 'lava': 2620, 'water': 8640, 'block': 3324}
+[2025-06-27 16:55:34] Decision: SPRINT FORWARD
+[2025-06-27 16:55:34] Sprinting Forward
+[2025-06-27 16:55:35] ENV: {'grass': 268011, 'tree': 2225, 'lava': 2621, 'water': 8757, 'block': 3394}
+[2025-06-27 16:55:35] Decision: SPRINT FORWARD
+[2025-06-27 16:55:35] Sprinting Forward
+[2025-06-27 16:55:36] ENV: {'grass': 264252, 'tree': 2294, 'lava': 2621, 'water': 9154, 'block': 3714}
+[2025-06-27 16:55:36] Decision: SPRINT FORWARD
+[2025-06-27 16:55:36] Sprinting Forward
+[2025-06-27 16:55:37] ENV: {'grass': 257478, 'tree': 2494, 'lava': 2623, 'water': 10025, 'block': 4073}
+[2025-06-27 16:55:37] Decision: SPRINT FORWARD
+[2025-06-27 16:55:37] Sprinting Forward
+[2025-06-27 16:55:37] ENV: {'grass': 249280, 'tree': 2277, 'lava': 2622, 'water': 10265, 'block': 4526}
+[2025-06-27 16:55:37] Decision: SPRINT FORWARD
+[2025-06-27 16:55:37] Sprinting Forward
+[2025-06-27 16:55:38] ENV: {'grass': 266718, 'tree': 3143, 'lava': 2614, 'water': 9888, 'block': 5262}
+[2025-06-27 16:55:38] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:38] Stopping
+[2025-06-27 16:55:38] ENV: {'grass': 260831, 'tree': 2521, 'lava': 2612, 'water': 9848, 'block': 5406}
+[2025-06-27 16:55:38] Decision: SPRINT FORWARD
+[2025-06-27 16:55:38] Sprinting Forward
+[2025-06-27 16:55:39] ENV: {'grass': 269614, 'tree': 2643, 'lava': 2620, 'water': 9011, 'block': 6098}
+[2025-06-27 16:55:39] Decision: SPRINT FORWARD
+[2025-06-27 16:55:39] Sprinting Forward
+[2025-06-27 16:55:40] ENV: {'grass': 269557, 'tree': 2795, 'lava': 2622, 'water': 7142, 'block': 6335}
+[2025-06-27 16:55:40] Decision: SPRINT FORWARD
+[2025-06-27 16:55:40] Sprinting Forward
+[2025-06-27 16:55:41] ENV: {'grass': 270816, 'tree': 2998, 'lava': 2629, 'water': 5467, 'block': 6006}
+[2025-06-27 16:55:41] Decision: SPRINT FORWARD
+[2025-06-27 16:55:41] Sprinting Forward
+[2025-06-27 16:55:42] ENV: {'grass': 264994, 'tree': 2992, 'lava': 2617, 'water': 5177, 'block': 6585}
+[2025-06-27 16:55:42] Decision: SPRINT FORWARD
+[2025-06-27 16:55:42] Sprinting Forward
+[2025-06-27 16:55:42] ENV: {'grass': 274168, 'tree': 3017, 'lava': 2616, 'water': 4741, 'block': 6789}
+[2025-06-27 16:55:42] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:42] Stopping
+[2025-06-27 16:55:42] ENV: {'grass': 275511, 'tree': 2979, 'lava': 2620, 'water': 4797, 'block': 6925}
+[2025-06-27 16:55:42] Decision: SPRINT FORWARD
+[2025-06-27 16:55:42] Sprinting Forward
+[2025-06-27 16:55:43] ENV: {'grass': 266410, 'tree': 3000, 'lava': 2615, 'water': 4570, 'block': 7271}
+[2025-06-27 16:55:43] Decision: SPRINT FORWARD
+[2025-06-27 16:55:43] Sprinting Forward
+[2025-06-27 16:55:44] ENV: {'grass': 272709, 'tree': 3001, 'lava': 2617, 'water': 5241, 'block': 8240}
+[2025-06-27 16:55:44] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:44] Stopping
+[2025-06-27 16:55:44] ENV: {'grass': 267172, 'tree': 2916, 'lava': 2608, 'water': 5369, 'block': 8289}
+[2025-06-27 16:55:44] Decision: SPRINT FORWARD
+[2025-06-27 16:55:44] Sprinting Forward
+[2025-06-27 16:55:45] ENV: {'grass': 266537, 'tree': 2695, 'lava': 2612, 'water': 6775, 'block': 8907}
+[2025-06-27 16:55:45] Decision: SPRINT FORWARD
+[2025-06-27 16:55:45] Sprinting Forward
+[2025-06-27 16:55:46] ENV: {'grass': 272396, 'tree': 2830, 'lava': 2613, 'water': 8539, 'block': 9674}
+[2025-06-27 16:55:46] Decision: SPRINT FORWARD
+[2025-06-27 16:55:46] Sprinting Forward
+[2025-06-27 16:55:46] ENV: {'grass': 272079, 'tree': 2590, 'lava': 2602, 'water': 10098, 'block': 10078}
+[2025-06-27 16:55:46] Decision: SPRINT FORWARD
+[2025-06-27 16:55:46] Sprinting Forward
+[2025-06-27 16:55:47] ENV: {'grass': 265547, 'tree': 2569, 'lava': 2611, 'water': 10276, 'block': 10544}
+[2025-06-27 16:55:47] Decision: SPRINT FORWARD
+[2025-06-27 16:55:47] Sprinting Forward
+[2025-06-27 16:55:48] ENV: {'grass': 272863, 'tree': 2643, 'lava': 2612, 'water': 10485, 'block': 10670}
+[2025-06-27 16:55:48] Decision: SPRINT FORWARD
+[2025-06-27 16:55:48] Sprinting Forward
+[2025-06-27 16:55:49] ENV: {'grass': 277759, 'tree': 2870, 'lava': 2660, 'water': 10695, 'block': 10756}
+[2025-06-27 16:55:49] Decision: SPRINT FORWARD
+[2025-06-27 16:55:49] Sprinting Forward
+[2025-06-27 16:55:49] ENV: {'grass': 276701, 'tree': 3057, 'lava': 2685, 'water': 10698, 'block': 10780}
+[2025-06-27 16:55:49] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:49] Stopping
+[2025-06-27 16:55:50] ENV: {'grass': 270420, 'tree': 3095, 'lava': 2708, 'water': 10860, 'block': 10751}
+[2025-06-27 16:55:50] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:50] Stopping
+[2025-06-27 16:55:50] ENV: {'grass': 269115, 'tree': 3110, 'lava': 2733, 'water': 10854, 'block': 10810}
+[2025-06-27 16:55:50] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:50] Stopping
+[2025-06-27 16:55:50] ENV: {'grass': 266918, 'tree': 3210, 'lava': 2736, 'water': 10821, 'block': 10853}
+[2025-06-27 16:55:50] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:50] Stopping
+[2025-06-27 16:55:50] ENV: {'grass': 266367, 'tree': 3177, 'lava': 2755, 'water': 10773, 'block': 10904}
+[2025-06-27 16:55:50] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:50] Stopping
+[2025-06-27 16:55:50] ENV: {'grass': 265579, 'tree': 3221, 'lava': 2744, 'water': 10772, 'block': 10920}
+[2025-06-27 16:55:50] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:50] Stopping
+[2025-06-27 16:55:51] ENV: {'grass': 265308, 'tree': 3306, 'lava': 2741, 'water': 10644, 'block': 10858}
+[2025-06-27 16:55:51] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:51] Stopping
+[2025-06-27 16:55:51] ENV: {'grass': 265172, 'tree': 3288, 'lava': 2739, 'water': 10682, 'block': 10780}
+[2025-06-27 16:55:51] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:51] Stopping
+[2025-06-27 16:55:51] ENV: {'grass': 264755, 'tree': 3280, 'lava': 2738, 'water': 10636, 'block': 10829}
+[2025-06-27 16:55:51] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:51] Stopping
+[2025-06-27 16:55:51] ENV: {'grass': 263666, 'tree': 3355, 'lava': 2730, 'water': 10581, 'block': 10831}
+[2025-06-27 16:55:51] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:51] Stopping
+[2025-06-27 16:55:51] ENV: {'grass': 260866, 'tree': 3387, 'lava': 2729, 'water': 10485, 'block': 10866}
+[2025-06-27 16:55:51] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:51] Stopping
+[2025-06-27 16:55:51] ENV: {'grass': 258933, 'tree': 3835, 'lava': 2722, 'water': 10512, 'block': 10886}
+[2025-06-27 16:55:52] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:52] Stopping
+[2025-06-27 16:55:52] ENV: {'grass': 256204, 'tree': 3868, 'lava': 2626, 'water': 10444, 'block': 10875}
+[2025-06-27 16:55:52] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:52] Stopping
+[2025-06-27 16:55:52] ENV: {'grass': 252611, 'tree': 3747, 'lava': 2614, 'water': 10359, 'block': 10834}
+[2025-06-27 16:55:52] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:52] Stopping
+[2025-06-27 16:55:52] ENV: {'grass': 251825, 'tree': 3528, 'lava': 2604, 'water': 10338, 'block': 10813}
+[2025-06-27 16:55:52] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:52] Stopping
+[2025-06-27 16:55:52] ENV: {'grass': 250890, 'tree': 3410, 'lava': 2617, 'water': 10356, 'block': 10777}
+[2025-06-27 16:55:52] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:52] Stopping
+[2025-06-27 16:55:52] ENV: {'grass': 250917, 'tree': 3442, 'lava': 2607, 'water': 10296, 'block': 10905}
+[2025-06-27 16:55:52] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:52] Stopping
+[2025-06-27 16:55:53] ENV: {'grass': 251197, 'tree': 3404, 'lava': 2621, 'water': 10275, 'block': 11028}
+[2025-06-27 16:55:53] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:53] Stopping
+[2025-06-27 16:55:53] ENV: {'grass': 251352, 'tree': 3394, 'lava': 2620, 'water': 10263, 'block': 11030}
+[2025-06-27 16:55:53] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:53] Stopping
+[2025-06-27 16:55:53] ENV: {'grass': 251018, 'tree': 3397, 'lava': 2628, 'water': 10169, 'block': 11007}
+[2025-06-27 16:55:53] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:53] Stopping
+[2025-06-27 16:55:53] ENV: {'grass': 250816, 'tree': 3346, 'lava': 2619, 'water': 10144, 'block': 11015}
+[2025-06-27 16:55:53] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:53] Stopping
+[2025-06-27 16:55:53] ENV: {'grass': 250632, 'tree': 3442, 'lava': 2628, 'water': 10130, 'block': 10973}
+[2025-06-27 16:55:53] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:53] Stopping
+[2025-06-27 16:55:54] ENV: {'grass': 252496, 'tree': 3453, 'lava': 2630, 'water': 10061, 'block': 10995}
+[2025-06-27 16:55:54] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:54] Stopping
+[2025-06-27 16:55:54] ENV: {'grass': 256779, 'tree': 3237, 'lava': 2622, 'water': 10057, 'block': 10962}
+[2025-06-27 16:55:54] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:54] Stopping
+[2025-06-27 16:55:54] ENV: {'grass': 256917, 'tree': 3305, 'lava': 2612, 'water': 10006, 'block': 10972}
+[2025-06-27 16:55:54] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:54] Stopping
+[2025-06-27 16:55:54] ENV: {'grass': 257070, 'tree': 3302, 'lava': 2608, 'water': 9969, 'block': 11010}
+[2025-06-27 16:55:54] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:54] Stopping
+[2025-06-27 16:55:54] ENV: {'grass': 257209, 'tree': 3279, 'lava': 2618, 'water': 9975, 'block': 10968}
+[2025-06-27 16:55:54] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:54] Stopping
+[2025-06-27 16:55:55] ENV: {'grass': 256829, 'tree': 3289, 'lava': 2604, 'water': 9924, 'block': 10959}
+[2025-06-27 16:55:55] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:55] Stopping
+[2025-06-27 16:55:55] ENV: {'grass': 256851, 'tree': 3288, 'lava': 2607, 'water': 9916, 'block': 10991}
+[2025-06-27 16:55:55] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:55] Stopping
+[2025-06-27 16:55:55] ENV: {'grass': 256900, 'tree': 3309, 'lava': 2603, 'water': 9902, 'block': 11048}
+[2025-06-27 16:55:55] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:55] Stopping
+[2025-06-27 16:55:55] ENV: {'grass': 256917, 'tree': 3324, 'lava': 2607, 'water': 9795, 'block': 11022}
+[2025-06-27 16:55:55] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:55] Stopping
+[2025-06-27 16:55:55] ENV: {'grass': 256759, 'tree': 3329, 'lava': 2607, 'water': 9776, 'block': 11144}
+[2025-06-27 16:55:55] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:55] Stopping
+[2025-06-27 16:55:56] ENV: {'grass': 256761, 'tree': 3315, 'lava': 2607, 'water': 9761, 'block': 11063}
+[2025-06-27 16:55:56] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:56] Stopping
+[2025-06-27 16:55:56] ENV: {'grass': 256667, 'tree': 3313, 'lava': 2605, 'water': 9694, 'block': 10955}
+[2025-06-27 16:55:56] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:56] Stopping
+[2025-06-27 16:55:56] ENV: {'grass': 256768, 'tree': 3357, 'lava': 2614, 'water': 9709, 'block': 11118}
+[2025-06-27 16:55:56] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:56] Stopping
+[2025-06-27 16:55:56] ENV: {'grass': 257162, 'tree': 3305, 'lava': 2603, 'water': 9660, 'block': 11041}
+[2025-06-27 16:55:56] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:56] Stopping
+[2025-06-27 16:55:56] ENV: {'grass': 257256, 'tree': 3306, 'lava': 2604, 'water': 9672, 'block': 11030}
+[2025-06-27 16:55:56] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:56] Stopping
+[2025-06-27 16:55:56] ENV: {'grass': 257279, 'tree': 3293, 'lava': 2605, 'water': 9668, 'block': 11091}
+[2025-06-27 16:55:56] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:56] Stopping
+[2025-06-27 16:55:57] ENV: {'grass': 256800, 'tree': 3318, 'lava': 2603, 'water': 9687, 'block': 10974}
+[2025-06-27 16:55:57] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:57] Stopping
+[2025-06-27 16:55:57] ENV: {'grass': 249806, 'tree': 3446, 'lava': 2604, 'water': 9724, 'block': 11003}
+[2025-06-27 16:55:57] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:57] Stopping
+[2025-06-27 16:55:57] ENV: {'grass': 247745, 'tree': 3521, 'lava': 2608, 'water': 9694, 'block': 11609}
+[2025-06-27 16:55:57] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:57] Stopping
+[2025-06-27 16:55:57] ENV: {'grass': 247236, 'tree': 3535, 'lava': 2635, 'water': 9725, 'block': 11606}
+[2025-06-27 16:55:57] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:57] Stopping
+[2025-06-27 16:55:57] ENV: {'grass': 247091, 'tree': 3556, 'lava': 2637, 'water': 9666, 'block': 11557}
+[2025-06-27 16:55:57] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:57] Stopping
+[2025-06-27 16:55:58] ENV: {'grass': 246775, 'tree': 3504, 'lava': 2631, 'water': 9680, 'block': 11531}
+[2025-06-27 16:55:58] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:58] Stopping
+[2025-06-27 16:55:58] ENV: {'grass': 246697, 'tree': 3491, 'lava': 2640, 'water': 9750, 'block': 11578}
+[2025-06-27 16:55:58] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:58] Stopping
+[2025-06-27 16:55:58] ENV: {'grass': 248020, 'tree': 3551, 'lava': 2638, 'water': 9724, 'block': 11703}
+[2025-06-27 16:55:58] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:58] Stopping
+[2025-06-27 16:55:58] ENV: {'grass': 252507, 'tree': 3278, 'lava': 2644, 'water': 9750, 'block': 11854}
+[2025-06-27 16:55:58] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:58] Stopping
+[2025-06-27 16:55:58] ENV: {'grass': 253068, 'tree': 3314, 'lava': 2641, 'water': 9834, 'block': 11833}
+[2025-06-27 16:55:58] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:58] Stopping
+[2025-06-27 16:55:59] ENV: {'grass': 253329, 'tree': 3315, 'lava': 2639, 'water': 9852, 'block': 11926}
+[2025-06-27 16:55:59] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:59] Stopping
+[2025-06-27 16:55:59] ENV: {'grass': 249848, 'tree': 3238, 'lava': 2639, 'water': 9819, 'block': 11760}
+[2025-06-27 16:55:59] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:59] Stopping
+[2025-06-27 16:55:59] ENV: {'grass': 254309, 'tree': 3300, 'lava': 2642, 'water': 9803, 'block': 11627}
+[2025-06-27 16:55:59] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:59] Stopping
+[2025-06-27 16:55:59] ENV: {'grass': 250151, 'tree': 3388, 'lava': 2643, 'water': 9822, 'block': 11783}
+[2025-06-27 16:55:59] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:59] Stopping
+[2025-06-27 16:55:59] ENV: {'grass': 251895, 'tree': 3383, 'lava': 2640, 'water': 9939, 'block': 11887}
+[2025-06-27 16:55:59] Decision: STOP (Tree ahead)
+[2025-06-27 16:55:59] Stopping
+[2025-06-27 16:56:00] ENV: {'grass': 252647, 'tree': 3442, 'lava': 2713, 'water': 9970, 'block': 12083}
+[2025-06-27 16:56:00] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:00] Stopping
+[2025-06-27 16:56:00] ENV: {'grass': 255273, 'tree': 3530, 'lava': 2707, 'water': 10024, 'block': 12079}
+[2025-06-27 16:56:00] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:00] Stopping
+[2025-06-27 16:56:00] ENV: {'grass': 256123, 'tree': 3297, 'lava': 2711, 'water': 9858, 'block': 12242}
+[2025-06-27 16:56:00] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:00] Stopping
+[2025-06-27 16:56:00] ENV: {'grass': 244473, 'tree': 3506, 'lava': 2714, 'water': 9815, 'block': 12545}
+[2025-06-27 16:56:00] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:00] Stopping
+[2025-06-27 16:56:00] ENV: {'grass': 246400, 'tree': 3358, 'lava': 2731, 'water': 9799, 'block': 12781}
+[2025-06-27 16:56:00] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:00] Stopping
+[2025-06-27 16:56:01] ENV: {'grass': 251653, 'tree': 3970, 'lava': 2726, 'water': 9801, 'block': 12506}
+[2025-06-27 16:56:01] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:01] Stopping
+[2025-06-27 16:56:01] ENV: {'grass': 256036, 'tree': 4307, 'lava': 2727, 'water': 9786, 'block': 12655}
+[2025-06-27 16:56:01] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:01] Stopping
+[2025-06-27 16:56:01] ENV: {'grass': 260747, 'tree': 4812, 'lava': 2734, 'water': 9798, 'block': 12842}
+[2025-06-27 16:56:01] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:01] Stopping
+[2025-06-27 16:56:01] ENV: {'grass': 264432, 'tree': 4034, 'lava': 2718, 'water': 9793, 'block': 12847}
+[2025-06-27 16:56:01] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:01] Stopping
+[2025-06-27 16:56:01] ENV: {'grass': 259045, 'tree': 3048, 'lava': 2727, 'water': 9777, 'block': 12862}
+[2025-06-27 16:56:01] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:01] Stopping
+[2025-06-27 16:56:01] ENV: {'grass': 254780, 'tree': 2991, 'lava': 2714, 'water': 9744, 'block': 12844}
+[2025-06-27 16:56:02] Decision: SPRINT FORWARD
+[2025-06-27 16:56:02] Sprinting Forward
+[2025-06-27 16:56:02] ENV: {'grass': 264684, 'tree': 3289, 'lava': 2658, 'water': 9787, 'block': 12928}
+[2025-06-27 16:56:02] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:02] Stopping
+[2025-06-27 16:56:02] ENV: {'grass': 261034, 'tree': 3261, 'lava': 2669, 'water': 9865, 'block': 13038}
+[2025-06-27 16:56:02] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:02] Stopping
+[2025-06-27 16:56:03] ENV: {'grass': 259770, 'tree': 3323, 'lava': 2645, 'water': 9755, 'block': 13017}
+[2025-06-27 16:56:03] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:03] Stopping
+[2025-06-27 16:56:03] ENV: {'grass': 259115, 'tree': 3360, 'lava': 2671, 'water': 9664, 'block': 13108}
+[2025-06-27 16:56:03] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:03] Stopping
+[2025-06-27 16:56:03] ENV: {'grass': 258584, 'tree': 3335, 'lava': 2661, 'water': 9592, 'block': 13234}
+[2025-06-27 16:56:03] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:03] Stopping
+[2025-06-27 16:56:03] ENV: {'grass': 258891, 'tree': 3302, 'lava': 2682, 'water': 9581, 'block': 13302}
+[2025-06-27 16:56:03] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:03] Stopping
+[2025-06-27 16:56:03] ENV: {'grass': 258468, 'tree': 3251, 'lava': 2672, 'water': 9596, 'block': 13424}
+[2025-06-27 16:56:03] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:03] Stopping
+[2025-06-27 16:56:04] ENV: {'grass': 256903, 'tree': 3232, 'lava': 2678, 'water': 9541, 'block': 13703}
+[2025-06-27 16:56:04] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:04] Stopping
+[2025-06-27 16:56:04] ENV: {'grass': 255558, 'tree': 3210, 'lava': 2677, 'water': 9518, 'block': 13918}
+[2025-06-27 16:56:04] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:04] Stopping
+[2025-06-27 16:56:04] ENV: {'grass': 253669, 'tree': 3208, 'lava': 2691, 'water': 9549, 'block': 14230}
+[2025-06-27 16:56:04] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:04] Stopping
+[2025-06-27 16:56:04] ENV: {'grass': 251449, 'tree': 3207, 'lava': 2692, 'water': 9541, 'block': 14553}
+[2025-06-27 16:56:04] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:04] Stopping
+[2025-06-27 16:56:04] ENV: {'grass': 249934, 'tree': 3176, 'lava': 2690, 'water': 9557, 'block': 14826}
+[2025-06-27 16:56:04] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:04] Stopping
+[2025-06-27 16:56:05] ENV: {'grass': 247553, 'tree': 3141, 'lava': 2677, 'water': 9564, 'block': 15041}
+[2025-06-27 16:56:05] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:05] Stopping
+[2025-06-27 16:56:05] ENV: {'grass': 247996, 'tree': 3135, 'lava': 2674, 'water': 9573, 'block': 15240}
+[2025-06-27 16:56:05] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:05] Stopping
+[2025-06-27 16:56:05] ENV: {'grass': 248018, 'tree': 3169, 'lava': 2664, 'water': 9574, 'block': 15456}
+[2025-06-27 16:56:05] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:05] Stopping
+[2025-06-27 16:56:05] ENV: {'grass': 246693, 'tree': 3156, 'lava': 2650, 'water': 9666, 'block': 15670}
+[2025-06-27 16:56:05] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:05] Stopping
+[2025-06-27 16:56:05] ENV: {'grass': 245054, 'tree': 3135, 'lava': 2654, 'water': 9610, 'block': 15867}
+[2025-06-27 16:56:05] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:05] Stopping
+[2025-06-27 16:56:05] ENV: {'grass': 242867, 'tree': 3081, 'lava': 2637, 'water': 9696, 'block': 16039}
+[2025-06-27 16:56:06] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:06] Stopping
+[2025-06-27 16:56:06] ENV: {'grass': 239187, 'tree': 3063, 'lava': 2632, 'water': 9991, 'block': 16588}
+[2025-06-27 16:56:06] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:06] Stopping
+[2025-06-27 16:56:06] ENV: {'grass': 237287, 'tree': 2995, 'lava': 2644, 'water': 10540, 'block': 16989}
+[2025-06-27 16:56:06] Decision: JUMP FORWARD (Block)
+[2025-06-27 16:56:06] Jumping While Moving Forward
+[2025-06-27 16:56:06] ENV: {'grass': 255513, 'tree': 3258, 'lava': 2643, 'water': 9590, 'block': 17536}
+[2025-06-27 16:56:06] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:06] Stopping
+[2025-06-27 16:56:07] ENV: {'grass': 249008, 'tree': 3250, 'lava': 2639, 'water': 9703, 'block': 17468}
+[2025-06-27 16:56:07] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:07] Stopping
+[2025-06-27 16:56:07] ENV: {'grass': 246911, 'tree': 3313, 'lava': 2663, 'water': 9628, 'block': 17449}
+[2025-06-27 16:56:07] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:07] Stopping
+[2025-06-27 16:56:07] ENV: {'grass': 245491, 'tree': 3279, 'lava': 2678, 'water': 9416, 'block': 17602}
+[2025-06-27 16:56:07] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:07] Stopping
+[2025-06-27 16:56:07] ENV: {'grass': 244769, 'tree': 3270, 'lava': 2681, 'water': 9439, 'block': 17720}
+[2025-06-27 16:56:07] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:07] Stopping
+[2025-06-27 16:56:07] ENV: {'grass': 244502, 'tree': 3261, 'lava': 2690, 'water': 9395, 'block': 17883}
+[2025-06-27 16:56:07] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:07] Stopping
+[2025-06-27 16:56:08] ENV: {'grass': 243916, 'tree': 3210, 'lava': 2681, 'water': 9423, 'block': 18014}
+[2025-06-27 16:56:08] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:08] Stopping
+[2025-06-27 16:56:08] ENV: {'grass': 243575, 'tree': 3164, 'lava': 2685, 'water': 9400, 'block': 18107}
+[2025-06-27 16:56:08] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:08] Stopping
+[2025-06-27 16:56:08] ENV: {'grass': 242638, 'tree': 3119, 'lava': 2691, 'water': 9394, 'block': 18284}
+[2025-06-27 16:56:08] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:08] Stopping
+[2025-06-27 16:56:08] ENV: {'grass': 240729, 'tree': 3080, 'lava': 2689, 'water': 9404, 'block': 18474}
+[2025-06-27 16:56:08] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:08] Stopping
+[2025-06-27 16:56:08] ENV: {'grass': 239150, 'tree': 3003, 'lava': 2703, 'water': 9418, 'block': 18653}
+[2025-06-27 16:56:08] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:08] Stopping
+[2025-06-27 16:56:09] ENV: {'grass': 238658, 'tree': 2971, 'lava': 2681, 'water': 9451, 'block': 18654}
+[2025-06-27 16:56:09] Decision: JUMP FORWARD (Block)
+[2025-06-27 16:56:09] Jumping While Moving Forward
+[2025-06-27 16:56:09] ENV: {'grass': 252898, 'tree': 4062, 'lava': 2687, 'water': 9601, 'block': 19857}
+[2025-06-27 16:56:09] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:09] Stopping
+[2025-06-27 16:56:09] ENV: {'grass': 249311, 'tree': 4133, 'lava': 2701, 'water': 9647, 'block': 19505}
+[2025-06-27 16:56:09] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:09] Stopping
+[2025-06-27 16:56:10] ENV: {'grass': 248333, 'tree': 4155, 'lava': 2706, 'water': 9574, 'block': 19284}
+[2025-06-27 16:56:10] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:10] Stopping
+[2025-06-27 16:56:10] ENV: {'grass': 248358, 'tree': 4023, 'lava': 2722, 'water': 9484, 'block': 19146}
+[2025-06-27 16:56:10] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:10] Stopping
+[2025-06-27 16:56:10] ENV: {'grass': 249002, 'tree': 3977, 'lava': 2726, 'water': 9568, 'block': 19146}
+[2025-06-27 16:56:10] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:10] Stopping
+[2025-06-27 16:56:10] ENV: {'grass': 249331, 'tree': 3884, 'lava': 2714, 'water': 9492, 'block': 19122}
+[2025-06-27 16:56:10] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:10] Stopping
+[2025-06-27 16:56:10] ENV: {'grass': 249827, 'tree': 3661, 'lava': 2717, 'water': 9497, 'block': 19178}
+[2025-06-27 16:56:10] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:10] Stopping
+[2025-06-27 16:56:11] ENV: {'grass': 250071, 'tree': 3755, 'lava': 2727, 'water': 9537, 'block': 19157}
+[2025-06-27 16:56:11] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:11] Stopping
+[2025-06-27 16:56:11] ENV: {'grass': 250685, 'tree': 3632, 'lava': 2716, 'water': 9480, 'block': 19072}
+[2025-06-27 16:56:11] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:11] Stopping
+[2025-06-27 16:56:11] ENV: {'grass': 252135, 'tree': 3331, 'lava': 2712, 'water': 9550, 'block': 18921}
+[2025-06-27 16:56:11] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:11] Stopping
+[2025-06-27 16:56:11] ENV: {'grass': 253468, 'tree': 3348, 'lava': 2712, 'water': 9533, 'block': 18850}
+[2025-06-27 16:56:11] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:11] Stopping
+[2025-06-27 16:56:11] ENV: {'grass': 254456, 'tree': 3305, 'lava': 2704, 'water': 9598, 'block': 18744}
+[2025-06-27 16:56:11] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:11] Stopping
+[2025-06-27 16:56:11] ENV: {'grass': 255467, 'tree': 3113, 'lava': 2706, 'water': 9472, 'block': 18568}
+[2025-06-27 16:56:12] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:12] Stopping
+[2025-06-27 16:56:12] ENV: {'grass': 255950, 'tree': 3061, 'lava': 2723, 'water': 9447, 'block': 18482}
+[2025-06-27 16:56:12] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:12] Stopping
+[2025-06-27 16:56:12] ENV: {'grass': 256861, 'tree': 3072, 'lava': 2736, 'water': 9423, 'block': 18457}
+[2025-06-27 16:56:12] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:12] Stopping
+[2025-06-27 16:56:12] ENV: {'grass': 257647, 'tree': 2915, 'lava': 2743, 'water': 9344, 'block': 18321}
+[2025-06-27 16:56:12] Decision: JUMP FORWARD (Block)
+[2025-06-27 16:56:12] Jumping While Moving Forward
+[2025-06-27 16:56:13] ENV: {'grass': 267831, 'tree': 3294, 'lava': 2801, 'water': 9706, 'block': 19183}
+[2025-06-27 16:56:13] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:13] Stopping
+[2025-06-27 16:56:13] ENV: {'grass': 265100, 'tree': 3482, 'lava': 2819, 'water': 9535, 'block': 19269}
+[2025-06-27 16:56:13] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:13] Stopping
+[2025-06-27 16:56:13] ENV: {'grass': 264872, 'tree': 3444, 'lava': 2810, 'water': 9351, 'block': 19203}
+[2025-06-27 16:56:13] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:13] Stopping
+[2025-06-27 16:56:13] ENV: {'grass': 265333, 'tree': 3384, 'lava': 2828, 'water': 9146, 'block': 19099}
+[2025-06-27 16:56:13] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:13] Stopping
+[2025-06-27 16:56:14] ENV: {'grass': 265040, 'tree': 3166, 'lava': 2842, 'water': 9006, 'block': 18804}
+[2025-06-27 16:56:14] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:14] Stopping
+[2025-06-27 16:56:14] ENV: {'grass': 264119, 'tree': 3097, 'lava': 2865, 'water': 8890, 'block': 18651}
+[2025-06-27 16:56:14] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:14] Stopping
+[2025-06-27 16:56:14] ENV: {'grass': 263037, 'tree': 3040, 'lava': 2903, 'water': 8861, 'block': 18530}
+[2025-06-27 16:56:14] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:14] Stopping
+[2025-06-27 16:56:14] ENV: {'grass': 261426, 'tree': 2942, 'lava': 2926, 'water': 8869, 'block': 18431}
+[2025-06-27 16:56:14] Decision: JUMP FORWARD (Block)
+[2025-06-27 16:56:14] Jumping While Moving Forward
+[2025-06-27 16:56:15] ENV: {'grass': 277302, 'tree': 21306, 'lava': 2878, 'water': 9393, 'block': 19744}
+[2025-06-27 16:56:15] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:15] Stopping
+[2025-06-27 16:56:15] ENV: {'grass': 249881, 'tree': 4918, 'lava': 2782, 'water': 9487, 'block': 19276}
+[2025-06-27 16:56:15] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:15] Stopping
+[2025-06-27 16:56:15] ENV: {'grass': 243572, 'tree': 4393, 'lava': 2783, 'water': 9670, 'block': 19498}
+[2025-06-27 16:56:15] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:15] Stopping
+[2025-06-27 16:56:15] ENV: {'grass': 240266, 'tree': 4207, 'lava': 2801, 'water': 9726, 'block': 19522}
+[2025-06-27 16:56:15] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:15] Stopping
+[2025-06-27 16:56:16] ENV: {'grass': 237316, 'tree': 4029, 'lava': 2802, 'water': 9667, 'block': 19453}
+[2025-06-27 16:56:16] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:16] Stopping
+[2025-06-27 16:56:16] ENV: {'grass': 236823, 'tree': 3956, 'lava': 2848, 'water': 9642, 'block': 19229}
+[2025-06-27 16:56:16] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:16] Stopping
+[2025-06-27 16:56:16] ENV: {'grass': 236795, 'tree': 3885, 'lava': 2867, 'water': 9585, 'block': 18975}
+[2025-06-27 16:56:16] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:16] Stopping
+[2025-06-27 16:56:16] ENV: {'grass': 235916, 'tree': 3942, 'lava': 2856, 'water': 9500, 'block': 18726}
+[2025-06-27 16:56:16] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:16] Stopping
+[2025-06-27 16:56:16] ENV: {'grass': 235000, 'tree': 3920, 'lava': 2859, 'water': 9469, 'block': 18549}
+[2025-06-27 16:56:16] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:16] Stopping
+[2025-06-27 16:56:16] ENV: {'grass': 234571, 'tree': 3747, 'lava': 2878, 'water': 9344, 'block': 18347}
+[2025-06-27 16:56:16] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:16] Stopping
+[2025-06-27 16:56:17] ENV: {'grass': 234872, 'tree': 3586, 'lava': 2871, 'water': 9166, 'block': 18243}
+[2025-06-27 16:56:17] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:17] Stopping
+[2025-06-27 16:56:17] ENV: {'grass': 235664, 'tree': 3451, 'lava': 2872, 'water': 8957, 'block': 18125}
+[2025-06-27 16:56:17] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:17] Stopping
+[2025-06-27 16:56:17] ENV: {'grass': 236507, 'tree': 3248, 'lava': 2865, 'water': 8760, 'block': 17942}
+[2025-06-27 16:56:17] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:17] Stopping
+[2025-06-27 16:56:17] ENV: {'grass': 237223, 'tree': 3165, 'lava': 2854, 'water': 8596, 'block': 17851}
+[2025-06-27 16:56:17] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:17] Stopping
+[2025-06-27 16:56:17] ENV: {'grass': 236507, 'tree': 3087, 'lava': 2849, 'water': 8498, 'block': 17713}
+[2025-06-27 16:56:17] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:17] Stopping
+[2025-06-27 16:56:18] ENV: {'grass': 235362, 'tree': 3043, 'lava': 2830, 'water': 8378, 'block': 17530}
+[2025-06-27 16:56:18] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:18] Stopping
+[2025-06-27 16:56:18] ENV: {'grass': 234213, 'tree': 3040, 'lava': 2815, 'water': 8309, 'block': 17458}
+[2025-06-27 16:56:18] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:18] Stopping
+[2025-06-27 16:56:18] ENV: {'grass': 233596, 'tree': 3008, 'lava': 2807, 'water': 8237, 'block': 17300}
+[2025-06-27 16:56:18] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:18] Stopping
+[2025-06-27 16:56:18] ENV: {'grass': 232130, 'tree': 3016, 'lava': 2806, 'water': 8205, 'block': 17127}
+[2025-06-27 16:56:18] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:18] Stopping
+[2025-06-27 16:56:18] ENV: {'grass': 230700, 'tree': 2866, 'lava': 2790, 'water': 8173, 'block': 16912}
+[2025-06-27 16:56:18] Decision: JUMP FORWARD (Block)
+[2025-06-27 16:56:18] Jumping While Moving Forward
+[2025-06-27 16:56:19] ENV: {'grass': 278079, 'tree': 20462, 'lava': 2728, 'water': 8266, 'block': 16750}
+[2025-06-27 16:56:19] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:19] Stopping
+[2025-06-27 16:56:19] ENV: {'grass': 274809, 'tree': 18104, 'lava': 2715, 'water': 8246, 'block': 16642}
+[2025-06-27 16:56:19] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:19] Stopping
+[2025-06-27 16:56:19] ENV: {'grass': 271980, 'tree': 16196, 'lava': 2718, 'water': 8176, 'block': 16447}
+[2025-06-27 16:56:19] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:19] Stopping
+[2025-06-27 16:56:20] ENV: {'grass': 270738, 'tree': 15331, 'lava': 2752, 'water': 8003, 'block': 16164}
+[2025-06-27 16:56:20] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:20] Stopping
+[2025-06-27 16:56:20] ENV: {'grass': 269492, 'tree': 14269, 'lava': 2761, 'water': 7869, 'block': 16003}
+[2025-06-27 16:56:20] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:20] Stopping
+[2025-06-27 16:56:20] ENV: {'grass': 267900, 'tree': 12733, 'lava': 2713, 'water': 7771, 'block': 16060}
+[2025-06-27 16:56:20] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:20] Stopping
+[2025-06-27 16:56:20] ENV: {'grass': 266293, 'tree': 10341, 'lava': 2733, 'water': 7725, 'block': 15909}
+[2025-06-27 16:56:20] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:20] Stopping
+[2025-06-27 16:56:20] ENV: {'grass': 263602, 'tree': 8587, 'lava': 2721, 'water': 7692, 'block': 15734}
+[2025-06-27 16:56:20] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:20] Stopping
+[2025-06-27 16:56:20] ENV: {'grass': 260951, 'tree': 6969, 'lava': 2695, 'water': 7752, 'block': 15603}
+[2025-06-27 16:56:20] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:20] Stopping
+[2025-06-27 16:56:21] ENV: {'grass': 258411, 'tree': 5384, 'lava': 2680, 'water': 7750, 'block': 15514}
+[2025-06-27 16:56:21] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:21] Stopping
+[2025-06-27 16:56:21] ENV: {'grass': 256944, 'tree': 4310, 'lava': 2669, 'water': 7755, 'block': 15483}
+[2025-06-27 16:56:21] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:21] Stopping
+[2025-06-27 16:56:21] ENV: {'grass': 254979, 'tree': 4313, 'lava': 2657, 'water': 7816, 'block': 15499}
+[2025-06-27 16:56:21] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:21] Stopping
+[2025-06-27 16:56:21] ENV: {'grass': 252990, 'tree': 4306, 'lava': 2644, 'water': 7874, 'block': 15699}
+[2025-06-27 16:56:21] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:21] Stopping
+[2025-06-27 16:56:21] ENV: {'grass': 250365, 'tree': 3759, 'lava': 2637, 'water': 7785, 'block': 15702}
+[2025-06-27 16:56:21] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:21] Stopping
+[2025-06-27 16:56:22] ENV: {'grass': 247110, 'tree': 3192, 'lava': 2618, 'water': 7865, 'block': 15912}
+[2025-06-27 16:56:22] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:22] Stopping
+[2025-06-27 16:56:22] ENV: {'grass': 243803, 'tree': 3282, 'lava': 2606, 'water': 7785, 'block': 16037}
+[2025-06-27 16:56:22] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:22] Stopping
+[2025-06-27 16:56:22] ENV: {'grass': 240778, 'tree': 3496, 'lava': 2618, 'water': 7730, 'block': 16278}
+[2025-06-27 16:56:22] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:22] Stopping
+[2025-06-27 16:56:22] ENV: {'grass': 238237, 'tree': 3469, 'lava': 2588, 'water': 7799, 'block': 16452}
+[2025-06-27 16:56:22] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:22] Stopping
+[2025-06-27 16:56:22] ENV: {'grass': 235486, 'tree': 3399, 'lava': 2590, 'water': 7814, 'block': 16703}
+[2025-06-27 16:56:22] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:22] Stopping
+[2025-06-27 16:56:23] ENV: {'grass': 233096, 'tree': 3234, 'lava': 2584, 'water': 7852, 'block': 16890}
+[2025-06-27 16:56:23] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:23] Stopping
+[2025-06-27 16:56:23] ENV: {'grass': 230825, 'tree': 3310, 'lava': 2589, 'water': 7827, 'block': 17183}
+[2025-06-27 16:56:23] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:23] Stopping
+[2025-06-27 16:56:23] ENV: {'grass': 228794, 'tree': 3655, 'lava': 2579, 'water': 7835, 'block': 17435}
+[2025-06-27 16:56:23] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:23] Stopping
+[2025-06-27 16:56:23] ENV: {'grass': 226876, 'tree': 3845, 'lava': 2584, 'water': 7828, 'block': 17868}
+[2025-06-27 16:56:23] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:23] Stopping
+[2025-06-27 16:56:23] ENV: {'grass': 224432, 'tree': 3867, 'lava': 2579, 'water': 7792, 'block': 18318}
+[2025-06-27 16:56:23] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:23] Stopping
+[2025-06-27 16:56:23] ENV: {'grass': 223032, 'tree': 4018, 'lava': 2573, 'water': 7826, 'block': 18785}
+[2025-06-27 16:56:23] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:23] Stopping
+[2025-06-27 16:56:24] ENV: {'grass': 220716, 'tree': 3756, 'lava': 2579, 'water': 7797, 'block': 19714}
+[2025-06-27 16:56:24] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:24] Stopping
+[2025-06-27 16:56:24] ENV: {'grass': 218117, 'tree': 3541, 'lava': 2580, 'water': 7838, 'block': 20342}
+[2025-06-27 16:56:24] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:24] Stopping
+[2025-06-27 16:56:24] ENV: {'grass': 215401, 'tree': 3642, 'lava': 2585, 'water': 7764, 'block': 21009}
+[2025-06-27 16:56:24] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:24] Stopping
+[2025-06-27 16:56:24] ENV: {'grass': 213527, 'tree': 3823, 'lava': 2593, 'water': 7723, 'block': 21632}
+[2025-06-27 16:56:24] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:24] Stopping
+[2025-06-27 16:56:24] ENV: {'grass': 212029, 'tree': 4095, 'lava': 2585, 'water': 7735, 'block': 22284}
+[2025-06-27 16:56:24] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:24] Stopping
+[2025-06-27 16:56:25] ENV: {'grass': 211028, 'tree': 4125, 'lava': 2581, 'water': 7587, 'block': 22692}
+[2025-06-27 16:56:25] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:25] Stopping
+[2025-06-27 16:56:25] ENV: {'grass': 210011, 'tree': 4137, 'lava': 2587, 'water': 7603, 'block': 23311}
+[2025-06-27 16:56:25] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:25] Stopping
+[2025-06-27 16:56:25] ENV: {'grass': 208776, 'tree': 4173, 'lava': 2595, 'water': 7582, 'block': 24109}
+[2025-06-27 16:56:25] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:25] Stopping
+[2025-06-27 16:56:25] ENV: {'grass': 207226, 'tree': 4254, 'lava': 2594, 'water': 7474, 'block': 25128}
+[2025-06-27 16:56:25] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:25] Stopping
+[2025-06-27 16:56:25] ENV: {'grass': 205903, 'tree': 4443, 'lava': 2581, 'water': 7534, 'block': 25588}
+[2025-06-27 16:56:25] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:25] Stopping
+[2025-06-27 16:56:26] ENV: {'grass': 204268, 'tree': 4588, 'lava': 2579, 'water': 7547, 'block': 26259}
+[2025-06-27 16:56:26] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:26] Stopping
+[2025-06-27 16:56:26] ENV: {'grass': 202451, 'tree': 4644, 'lava': 2583, 'water': 7634, 'block': 26491}
+[2025-06-27 16:56:26] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:26] Stopping
+[2025-06-27 16:56:26] ENV: {'grass': 200311, 'tree': 4870, 'lava': 2578, 'water': 7678, 'block': 26867}
+[2025-06-27 16:56:26] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:26] Stopping
+[2025-06-27 16:56:26] ENV: {'grass': 198881, 'tree': 5134, 'lava': 2582, 'water': 7650, 'block': 27211}
+[2025-06-27 16:56:26] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:26] Stopping
+[2025-06-27 16:56:26] ENV: {'grass': 197691, 'tree': 5514, 'lava': 2587, 'water': 7636, 'block': 27366}
+[2025-06-27 16:56:26] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:26] Stopping
+[2025-06-27 16:56:27] ENV: {'grass': 197114, 'tree': 6066, 'lava': 2593, 'water': 7568, 'block': 27623}
+[2025-06-27 16:56:27] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:27] Stopping
+[2025-06-27 16:56:27] ENV: {'grass': 197179, 'tree': 6275, 'lava': 2596, 'water': 7711, 'block': 27760}
+[2025-06-27 16:56:27] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:27] Stopping
+[2025-06-27 16:56:27] ENV: {'grass': 197076, 'tree': 6320, 'lava': 2597, 'water': 7724, 'block': 27667}
+[2025-06-27 16:56:27] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:27] Stopping
+[2025-06-27 16:56:27] ENV: {'grass': 196463, 'tree': 6145, 'lava': 2604, 'water': 7732, 'block': 27631}
+[2025-06-27 16:56:27] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:27] Stopping
+[2025-06-27 16:56:27] ENV: {'grass': 195876, 'tree': 5848, 'lava': 2587, 'water': 7502, 'block': 27591}
+[2025-06-27 16:56:27] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:27] Stopping
+[2025-06-27 16:56:28] ENV: {'grass': 194446, 'tree': 5894, 'lava': 2591, 'water': 7517, 'block': 27396}
+[2025-06-27 16:56:28] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:28] Stopping
+[2025-06-27 16:56:28] ENV: {'grass': 192309, 'tree': 5851, 'lava': 2582, 'water': 7505, 'block': 27254}
+[2025-06-27 16:56:28] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:28] Stopping
+[2025-06-27 16:56:28] ENV: {'grass': 190381, 'tree': 5831, 'lava': 2598, 'water': 7485, 'block': 27009}
+[2025-06-27 16:56:28] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:28] Stopping
+[2025-06-27 16:56:28] ENV: {'grass': 188161, 'tree': 5629, 'lava': 2592, 'water': 7608, 'block': 26872}
+[2025-06-27 16:56:28] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:28] Stopping
+[2025-06-27 16:56:28] ENV: {'grass': 186140, 'tree': 5564, 'lava': 2595, 'water': 7480, 'block': 26779}
+[2025-06-27 16:56:28] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:28] Stopping
+[2025-06-27 16:56:29] ENV: {'grass': 184291, 'tree': 5433, 'lava': 2597, 'water': 7433, 'block': 26809}
+[2025-06-27 16:56:29] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:29] Stopping
+[2025-06-27 16:56:29] ENV: {'grass': 181953, 'tree': 5217, 'lava': 2589, 'water': 7487, 'block': 26829}
+[2025-06-27 16:56:29] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:29] Stopping
+[2025-06-27 16:56:29] ENV: {'grass': 181902, 'tree': 6307, 'lava': 2591, 'water': 7764, 'block': 28038}
+[2025-06-27 16:56:29] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:29] Stopping
+[2025-06-27 16:56:29] ENV: {'grass': 179031, 'tree': 4161, 'lava': 2627, 'water': 3416, 'block': 15256}
+[2025-06-27 16:56:29] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:29] Stopping
+[2025-06-27 16:56:29] ENV: {'grass': 164083, 'tree': 3259, 'lava': 2612, 'water': 3200, 'block': 15833}
+[2025-06-27 16:56:29] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:29] Stopping
+[2025-06-27 16:56:29] ENV: {'grass': 161216, 'tree': 3166, 'lava': 2624, 'water': 3178, 'block': 16135}
+[2025-06-27 16:56:30] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:30] Stopping
+[2025-06-27 16:56:30] ENV: {'grass': 153590, 'tree': 3003, 'lava': 2601, 'water': 3132, 'block': 14655}
+[2025-06-27 16:56:30] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:30] Stopping
+[2025-06-27 16:56:30] ENV: {'grass': 155389, 'tree': 3166, 'lava': 2613, 'water': 3140, 'block': 14713}
+[2025-06-27 16:56:30] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:30] Stopping
+[2025-06-27 16:56:30] ENV: {'grass': 149839, 'tree': 2907, 'lava': 2702, 'water': 3141, 'block': 12397}
+[2025-06-27 16:56:30] Decision: STOP (Unknown environment)
+[2025-06-27 16:56:30] Stopping
+[2025-06-27 16:56:30] ENV: {'grass': 143320, 'tree': 3075, 'lava': 2648, 'water': 3180, 'block': 7873}
+[2025-06-27 16:56:30] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:30] Stopping
+[2025-06-27 16:56:30] ENV: {'grass': 142492, 'tree': 3747, 'lava': 2610, 'water': 3151, 'block': 5804}
+[2025-06-27 16:56:30] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:30] Stopping
+[2025-06-27 16:56:31] ENV: {'grass': 167983, 'tree': 2947, 'lava': 2590, 'water': 3137, 'block': 1595}
+[2025-06-27 16:56:31] Decision: SPRINT FORWARD
+[2025-06-27 16:56:31] Sprinting Forward
+[2025-06-27 16:56:31] ENV: {'grass': 189712, 'tree': 13429, 'lava': 3633, 'water': 3109, 'block': 1885}
+[2025-06-27 16:56:31] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:31] Stopping
+[2025-06-27 16:56:32] ENV: {'grass': 188591, 'tree': 13539, 'lava': 3646, 'water': 3099, 'block': 2001}
+[2025-06-27 16:56:32] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:32] Stopping
+[2025-06-27 16:56:32] ENV: {'grass': 188178, 'tree': 14007, 'lava': 3678, 'water': 3077, 'block': 1988}
+[2025-06-27 16:56:32] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:32] Stopping
+[2025-06-27 16:56:32] ENV: {'grass': 187136, 'tree': 14156, 'lava': 3697, 'water': 3073, 'block': 1924}
+[2025-06-27 16:56:32] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:32] Stopping
+[2025-06-27 16:56:32] ENV: {'grass': 185212, 'tree': 13773, 'lava': 3716, 'water': 3074, 'block': 1757}
+[2025-06-27 16:56:32] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:32] Stopping
+[2025-06-27 16:56:32] ENV: {'grass': 183912, 'tree': 13517, 'lava': 3735, 'water': 3076, 'block': 1716}
+[2025-06-27 16:56:32] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:32] Stopping
+[2025-06-27 16:56:33] ENV: {'grass': 183103, 'tree': 13205, 'lava': 3737, 'water': 3077, 'block': 1945}
+[2025-06-27 16:56:33] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:33] Stopping
+[2025-06-27 16:56:33] ENV: {'grass': 182610, 'tree': 13188, 'lava': 3739, 'water': 3086, 'block': 2047}
+[2025-06-27 16:56:33] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:33] Stopping
+[2025-06-27 16:56:33] ENV: {'grass': 182593, 'tree': 13259, 'lava': 3730, 'water': 3079, 'block': 1986}
+[2025-06-27 16:56:33] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:33] Stopping
+[2025-06-27 16:56:33] ENV: {'grass': 196775, 'tree': 19771, 'lava': 2671, 'water': 3093, 'block': 3582}
+[2025-06-27 16:56:33] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:33] Stopping
+[2025-06-27 16:56:33] ENV: {'grass': 223286, 'tree': 21700, 'lava': 2695, 'water': 3101, 'block': 3840}
+[2025-06-27 16:56:33] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:33] Stopping
+[2025-06-27 16:56:34] ENV: {'grass': 222849, 'tree': 21039, 'lava': 2697, 'water': 3092, 'block': 3735}
+[2025-06-27 16:56:34] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:34] Stopping
+[2025-06-27 16:56:34] ENV: {'grass': 254444, 'tree': 23269, 'lava': 2738, 'water': 3063, 'block': 1972}
+[2025-06-27 16:56:34] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:34] Stopping
+[2025-06-27 16:56:34] ENV: {'grass': 257404, 'tree': 24697, 'lava': 2588, 'water': 3069, 'block': 3206}
+[2025-06-27 16:56:34] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:34] Stopping
+[2025-06-27 16:56:34] ENV: {'grass': 209421, 'tree': 21473, 'lava': 2576, 'water': 3083, 'block': 2745}
+[2025-06-27 16:56:34] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:34] Stopping
+[2025-06-27 16:56:34] ENV: {'grass': 208469, 'tree': 22661, 'lava': 2579, 'water': 3173, 'block': 2777}
+[2025-06-27 16:56:34] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:34] Stopping
+[2025-06-27 16:56:35] ENV: {'grass': 157225, 'tree': 5732, 'lava': 4832, 'water': 3128, 'block': 721}
+[2025-06-27 16:56:35] Decision: STOP (Lava)
+[2025-06-27 16:56:35] Stopping
+[2025-06-27 16:56:35] ENV: {'grass': 156412, 'tree': 6123, 'lava': 4815, 'water': 3094, 'block': 735}
+[2025-06-27 16:56:35] Decision: STOP (Lava)
+[2025-06-27 16:56:35] Stopping
+[2025-06-27 16:56:35] ENV: {'grass': 155842, 'tree': 6797, 'lava': 4779, 'water': 3149, 'block': 735}
+[2025-06-27 16:56:35] Decision: STOP (Lava)
+[2025-06-27 16:56:35] Stopping
+[2025-06-27 16:56:35] ENV: {'grass': 168860, 'tree': 9471, 'lava': 2728, 'water': 3087, 'block': 1561}
+[2025-06-27 16:56:35] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:35] Stopping
+[2025-06-27 16:56:35] ENV: {'grass': 180223, 'tree': 13042, 'lava': 2589, 'water': 3125, 'block': 2112}
+[2025-06-27 16:56:35] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:35] Stopping
+[2025-06-27 16:56:36] ENV: {'grass': 181323, 'tree': 12936, 'lava': 2586, 'water': 3094, 'block': 2177}
+[2025-06-27 16:56:36] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:36] Stopping
+[2025-06-27 16:56:36] ENV: {'grass': 180828, 'tree': 13074, 'lava': 2590, 'water': 3076, 'block': 2091}
+[2025-06-27 16:56:36] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:36] Stopping
+[2025-06-27 16:56:36] ENV: {'grass': 180569, 'tree': 13504, 'lava': 2594, 'water': 3060, 'block': 2058}
+[2025-06-27 16:56:36] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:36] Stopping
+[2025-06-27 16:56:36] ENV: {'grass': 178339, 'tree': 12552, 'lava': 2591, 'water': 3104, 'block': 1949}
+[2025-06-27 16:56:36] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:36] Stopping
+[2025-06-27 16:56:36] ENV: {'grass': 175829, 'tree': 12054, 'lava': 2593, 'water': 3087, 'block': 1973}
+[2025-06-27 16:56:36] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:36] Stopping
+[2025-06-27 16:56:36] ENV: {'grass': 179827, 'tree': 13045, 'lava': 2599, 'water': 3111, 'block': 2847}
+[2025-06-27 16:56:36] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:36] Stopping
+[2025-06-27 16:56:37] ENV: {'grass': 179525, 'tree': 13060, 'lava': 2591, 'water': 3102, 'block': 3125}
+[2025-06-27 16:56:37] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:37] Stopping
+[2025-06-27 16:56:37] ENV: {'grass': 178532, 'tree': 12490, 'lava': 2607, 'water': 3071, 'block': 3316}
+[2025-06-27 16:56:37] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:37] Stopping
+[2025-06-27 16:56:37] ENV: {'grass': 178097, 'tree': 12048, 'lava': 2601, 'water': 3071, 'block': 3272}
+[2025-06-27 16:56:37] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:37] Stopping
+[2025-06-27 16:56:37] ENV: {'grass': 177983, 'tree': 11576, 'lava': 2593, 'water': 3067, 'block': 3184}
+[2025-06-27 16:56:37] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:37] Stopping
+[2025-06-27 16:56:37] ENV: {'grass': 177397, 'tree': 11828, 'lava': 2599, 'water': 3066, 'block': 3216}
+[2025-06-27 16:56:37] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:37] Stopping
+[2025-06-27 16:56:38] ENV: {'grass': 176465, 'tree': 12150, 'lava': 2596, 'water': 3066, 'block': 3126}
+[2025-06-27 16:56:38] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:38] Stopping
+[2025-06-27 16:56:38] ENV: {'grass': 168835, 'tree': 9999, 'lava': 2598, 'water': 3126, 'block': 2272}
+[2025-06-27 16:56:38] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:38] Stopping
+[2025-06-27 16:56:38] ENV: {'grass': 150472, 'tree': 3284, 'lava': 2592, 'water': 3134, 'block': 718}
+[2025-06-27 16:56:38] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:38] Stopping
+[2025-06-27 16:56:38] ENV: {'grass': 151012, 'tree': 4681, 'lava': 2596, 'water': 3113, 'block': 718}
+[2025-06-27 16:56:38] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:38] Stopping
+[2025-06-27 16:56:38] ENV: {'grass': 151365, 'tree': 4355, 'lava': 2584, 'water': 3145, 'block': 723}
+[2025-06-27 16:56:38] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:38] Stopping
+[2025-06-27 16:56:39] ENV: {'grass': 152320, 'tree': 3856, 'lava': 2605, 'water': 3131, 'block': 723}
+[2025-06-27 16:56:39] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:39] Stopping
+[2025-06-27 16:56:39] ENV: {'grass': 152955, 'tree': 3941, 'lava': 2585, 'water': 3093, 'block': 723}
+[2025-06-27 16:56:39] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:39] Stopping
+[2025-06-27 16:56:39] ENV: {'grass': 161341, 'tree': 2332, 'lava': 11981, 'water': 4537, 'block': 733}
+[2025-06-27 16:56:39] Decision: STOP (Lava)
+[2025-06-27 16:56:39] Stopping
+[2025-06-27 16:56:39] ENV: {'grass': 202507, 'tree': 3490, 'lava': 11231, 'water': 7332, 'block': 1098}
+[2025-06-27 16:56:39] Decision: STOP (Lava)
+[2025-06-27 16:56:39] Stopping
+[2025-06-27 16:56:39] ENV: {'grass': 198269, 'tree': 5876, 'lava': 4536, 'water': 24774, 'block': 2147}
+[2025-06-27 16:56:39] Decision: STOP (Lava)
+[2025-06-27 16:56:39] Stopping
+[2025-06-27 16:56:40] ENV: {'grass': 186785, 'tree': 4949, 'lava': 2922, 'water': 34712, 'block': 1856}
+[2025-06-27 16:56:40] Decision: STOP (Water)
+[2025-06-27 16:56:40] Stopping
+[2025-06-27 16:56:40] ENV: {'grass': 182932, 'tree': 5176, 'lava': 3004, 'water': 34571, 'block': 1741}
+[2025-06-27 16:56:40] Decision: STOP (Water)
+[2025-06-27 16:56:40] Stopping
+[2025-06-27 16:56:40] ENV: {'grass': 180899, 'tree': 5344, 'lava': 3053, 'water': 33870, 'block': 1689}
+[2025-06-27 16:56:40] Decision: STOP (Water)
+[2025-06-27 16:56:40] Stopping
+[2025-06-27 16:56:40] ENV: {'grass': 179728, 'tree': 5372, 'lava': 3081, 'water': 33338, 'block': 1677}
+[2025-06-27 16:56:40] Decision: STOP (Water)
+[2025-06-27 16:56:40] Stopping
+[2025-06-27 16:56:40] ENV: {'grass': 155815, 'tree': 3254, 'lava': 4382, 'water': 41959, 'block': 2688}
+[2025-06-27 16:56:40] Decision: STOP (Lava)
+[2025-06-27 16:56:40] Stopping
+[2025-06-27 16:56:41] ENV: {'grass': 144481, 'tree': 3421, 'lava': 4083, 'water': 47770, 'block': 3074}
+[2025-06-27 16:56:41] Decision: STOP (Lava)
+[2025-06-27 16:56:41] Stopping
+[2025-06-27 16:56:41] ENV: {'grass': 143692, 'tree': 3711, 'lava': 4218, 'water': 48074, 'block': 3004}
+[2025-06-27 16:56:41] Decision: STOP (Lava)
+[2025-06-27 16:56:41] Stopping
+[2025-06-27 16:56:41] ENV: {'grass': 132339, 'tree': 2692, 'lava': 7514, 'water': 43703, 'block': 2617}
+[2025-06-27 16:56:41] Decision: STOP (Lava)
+[2025-06-27 16:56:41] Stopping
+[2025-06-27 16:56:41] ENV: {'grass': 130427, 'tree': 2970, 'lava': 8324, 'water': 38069, 'block': 2065}
+[2025-06-27 16:56:41] Decision: STOP (Lava)
+[2025-06-27 16:56:41] Stopping
+[2025-06-27 16:56:41] ENV: {'grass': 130756, 'tree': 3058, 'lava': 8542, 'water': 37473, 'block': 1965}
+[2025-06-27 16:56:41] Decision: STOP (Lava)
+[2025-06-27 16:56:41] Stopping
+[2025-06-27 16:56:41] ENV: {'grass': 130706, 'tree': 3128, 'lava': 8552, 'water': 37095, 'block': 1996}
+[2025-06-27 16:56:41] Decision: STOP (Lava)
+[2025-06-27 16:56:41] Stopping
+[2025-06-27 16:56:42] ENV: {'grass': 130731, 'tree': 3162, 'lava': 8597, 'water': 36941, 'block': 2006}
+[2025-06-27 16:56:42] Decision: STOP (Lava)
+[2025-06-27 16:56:42] Stopping
+[2025-06-27 16:56:42] ENV: {'grass': 130871, 'tree': 3153, 'lava': 8630, 'water': 36801, 'block': 1998}
+[2025-06-27 16:56:42] Decision: STOP (Lava)
+[2025-06-27 16:56:42] Stopping
+[2025-06-27 16:56:42] ENV: {'grass': 130777, 'tree': 3171, 'lava': 8659, 'water': 36673, 'block': 2011}
+[2025-06-27 16:56:42] Decision: STOP (Lava)
+[2025-06-27 16:56:42] Stopping
+[2025-06-27 16:56:42] ENV: {'grass': 130796, 'tree': 3150, 'lava': 8688, 'water': 36561, 'block': 2011}
+[2025-06-27 16:56:42] Decision: STOP (Lava)
+[2025-06-27 16:56:42] Stopping
+[2025-06-27 16:56:42] ENV: {'grass': 131376, 'tree': 3174, 'lava': 8671, 'water': 36500, 'block': 1984}
+[2025-06-27 16:56:42] Decision: STOP (Lava)
+[2025-06-27 16:56:42] Stopping
+[2025-06-27 16:56:43] ENV: {'grass': 117551, 'tree': 3936, 'lava': 7665, 'water': 2953, 'block': 21574}
+[2025-06-27 16:56:43] Decision: STOP (Lava)
+[2025-06-27 16:56:43] Stopping
+[2025-06-27 16:56:43] ENV: {'grass': 117638, 'tree': 3925, 'lava': 7685, 'water': 2953, 'block': 21573}
+[2025-06-27 16:56:43] Decision: STOP (Lava)
+[2025-06-27 16:56:43] Stopping
+[2025-06-27 16:56:43] ENV: {'grass': 116364, 'tree': 3917, 'lava': 7734, 'water': 2951, 'block': 21578}
+[2025-06-27 16:56:43] Decision: STOP (Lava)
+[2025-06-27 16:56:43] Stopping
+[2025-06-27 16:56:43] ENV: {'grass': 117421, 'tree': 3935, 'lava': 7724, 'water': 2945, 'block': 21580}
+[2025-06-27 16:56:43] Decision: STOP (Lava)
+[2025-06-27 16:56:43] Stopping
+[2025-06-27 16:56:43] ENV: {'grass': 117369, 'tree': 3936, 'lava': 7722, 'water': 2956, 'block': 21586}
+[2025-06-27 16:56:43] Decision: STOP (Lava)
+[2025-06-27 16:56:43] Stopping
+[2025-06-27 16:56:44] ENV: {'grass': 117348, 'tree': 3941, 'lava': 7724, 'water': 2952, 'block': 21575}
+[2025-06-27 16:56:44] Decision: STOP (Lava)
+[2025-06-27 16:56:44] Stopping
+[2025-06-27 16:56:44] ENV: {'grass': 117439, 'tree': 3921, 'lava': 7727, 'water': 2954, 'block': 21577}
+[2025-06-27 16:56:44] Decision: STOP (Lava)
+[2025-06-27 16:56:44] Stopping
+[2025-06-27 16:56:44] ENV: {'grass': 32436, 'tree': 3398, 'lava': 1906, 'water': 4444, 'block': 26}
+[2025-06-27 16:56:44] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:44] Stopping
+[2025-06-27 16:56:44] ENV: {'grass': 32441, 'tree': 3409, 'lava': 1903, 'water': 4460, 'block': 26}
+[2025-06-27 16:56:44] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:44] Stopping
+[2025-06-27 16:56:44] ENV: {'grass': 32432, 'tree': 3394, 'lava': 1882, 'water': 4558, 'block': 26}
+[2025-06-27 16:56:44] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:44] Stopping
+[2025-06-27 16:56:45] ENV: {'grass': 32445, 'tree': 3418, 'lava': 1878, 'water': 4604, 'block': 26}
+[2025-06-27 16:56:45] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:45] Stopping
+[2025-06-27 16:56:45] ENV: {'grass': 32455, 'tree': 3408, 'lava': 1866, 'water': 4676, 'block': 26}
+[2025-06-27 16:56:45] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:45] Stopping
+[2025-06-27 16:56:45] ENV: {'grass': 32453, 'tree': 3404, 'lava': 1861, 'water': 4674, 'block': 26}
+[2025-06-27 16:56:45] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:45] Stopping
+[2025-06-27 16:56:45] ENV: {'grass': 32453, 'tree': 3366, 'lava': 1865, 'water': 4626, 'block': 26}
+[2025-06-27 16:56:45] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:45] Stopping
+[2025-06-27 16:56:45] ENV: {'grass': 32445, 'tree': 3363, 'lava': 1871, 'water': 4584, 'block': 26}
+[2025-06-27 16:56:45] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:45] Stopping
+[2025-06-27 16:56:46] ENV: {'grass': 31860, 'tree': 4229, 'lava': 1883, 'water': 4559, 'block': 984}
+[2025-06-27 16:56:46] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:46] Stopping
+[2025-06-27 16:56:46] ENV: {'grass': 30701, 'tree': 3280, 'lava': 2115, 'water': 4390, 'block': 9}
+[2025-06-27 16:56:46] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:46] Stopping
+[2025-06-27 16:56:46] ENV: {'grass': 30729, 'tree': 3292, 'lava': 2102, 'water': 4398, 'block': 9}
+[2025-06-27 16:56:46] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:46] Stopping
+[2025-06-27 16:56:46] ENV: {'grass': 30756, 'tree': 3352, 'lava': 2106, 'water': 4378, 'block': 9}
+[2025-06-27 16:56:46] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:46] Stopping
+[2025-06-27 16:56:46] ENV: {'grass': 30785, 'tree': 3389, 'lava': 2125, 'water': 4365, 'block': 9}
+[2025-06-27 16:56:46] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:46] Stopping
+[2025-06-27 16:56:46] ENV: {'grass': 30759, 'tree': 3345, 'lava': 2137, 'water': 4352, 'block': 9}
+[2025-06-27 16:56:46] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:46] Stopping
+[2025-06-27 16:56:47] ENV: {'grass': 30754, 'tree': 3313, 'lava': 2118, 'water': 4339, 'block': 9}
+[2025-06-27 16:56:47] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:47] Stopping
+[2025-06-27 16:56:47] ENV: {'grass': 30727, 'tree': 3297, 'lava': 2119, 'water': 4346, 'block': 9}
+[2025-06-27 16:56:47] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:47] Stopping
+[2025-06-27 16:56:47] ENV: {'grass': 30732, 'tree': 3319, 'lava': 2126, 'water': 4341, 'block': 9}
+[2025-06-27 16:56:47] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:47] Stopping
+[2025-06-27 16:56:47] ENV: {'grass': 30725, 'tree': 3341, 'lava': 2127, 'water': 4343, 'block': 9}
+[2025-06-27 16:56:47] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:47] Stopping
+[2025-06-27 16:56:47] ENV: {'grass': 30730, 'tree': 3359, 'lava': 2161, 'water': 4341, 'block': 9}
+[2025-06-27 16:56:47] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:47] Stopping
+[2025-06-27 16:56:48] ENV: {'grass': 34213, 'tree': 4737, 'lava': 1591, 'water': 4622, 'block': 74964}
+[2025-06-27 16:56:48] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:48] Stopping
+[2025-06-27 16:56:48] ENV: {'grass': 32432, 'tree': 3437, 'lava': 1912, 'water': 4500, 'block': 26}
+[2025-06-27 16:56:48] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:48] Stopping
+[2025-06-27 16:56:48] ENV: {'grass': 32432, 'tree': 3431, 'lava': 1909, 'water': 4513, 'block': 26}
+[2025-06-27 16:56:48] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:48] Stopping
+[2025-06-27 16:56:48] ENV: {'grass': 32457, 'tree': 3442, 'lava': 1892, 'water': 4546, 'block': 26}
+[2025-06-27 16:56:48] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:48] Stopping
+[2025-06-27 16:56:48] ENV: {'grass': 32472, 'tree': 3443, 'lava': 1877, 'water': 4592, 'block': 26}
+[2025-06-27 16:56:48] Decision: STOP (Tree ahead)
+[2025-06-27 16:56:48] Stopping
+[2025-06-27 16:56:49] Stopping
